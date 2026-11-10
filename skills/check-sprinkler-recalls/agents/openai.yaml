@@ -1,0 +1,9 @@
+interface:
+  display_name: Sprinkler Recall Checker
+  short_description: Identify sprinklers, check recalls and counterfeit alerts
+  default_prompt: Use $check-sprinkler-recalls to identify this sprinkler and check
+    applicable recalls.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
