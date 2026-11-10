@@ -1,0 +1,24 @@
+{
+  "name": "sprinkler-recall-checker",
+  "version": "1.4.0",
+  "description": "Identify fire sprinklers from photos and markings, check U.S. recalls and replacement warnings, screen markings against UL and FM Approvals counterfeit alerts, and report evidence and unresolved identifiers. Informational screening aid only; see DISCLAIMER.md.",
+  "author": {
+    "name": "Corey Kinsman"
+  },
+  "license": "MIT",
+  "keywords": [
+    "fire sprinkler",
+    "sprinkler recall",
+    "CPSC",
+    "O-ring",
+    "Central Sprinkler",
+    "Star",
+    "Omega",
+    "Globe",
+    "fire protection",
+    "counterfeit sprinkler",
+    "UL",
+    "FM Approvals",
+    "certification mark"
+  ]
+}
