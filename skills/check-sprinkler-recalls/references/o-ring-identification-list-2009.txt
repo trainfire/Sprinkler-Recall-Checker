@@ -1,0 +1,184 @@
+Issued:  April 2002
+Revised: November 2009
+
+
+
+Lists of “O”-ring Sealed Sprinklers
+The sprinkler models and identification numbers specified herein may incorporate the use
+of an O-ring water seal. These lists may not reference all models of O-ring sealed
+sprinklers. By examining “spare” sprinklers provided when systems were installed, the
+types of sprinklers used in a fire sprinkler system can be identified. If there is a question
+as to whether a particular sprinkler model incorporates an O-ring water seal, please
+contact the sprinkler manufacturer or UL LLC for assistance related to sprinkler
+identification.
+
+The attached List A references “wet” type O-ring sealed sprinklers. List B references
+“dry” type O-ring sealed sprinklers. The list of dry sprinklers only includes sprinklers
+manufactured within the last 10 years. The current edition of the NFPA Standard for the
+Inspection, Testing and Maintenance of Water-Based Fire Protection Systems, NFPA 25-
+2002, specifies that dry sprinklers 10 years or older shall be replaced or representative
+samples from the system subjected to operational testing. Sprinkler model designations
+are provided in bold text and sprinkler identification numbers used more recently are
+denoted in plain text.
+
+Please note that these lists may not include those sprinklers that have been recalled.
+Information regarding these sprinklers can be accessed at website of the Consumer
+Product Safety Commission (CPSC).
+Issued:  April 2002
+Revised: November 2009
+
+                                  LIST A
+                 “WET” TYPE O-RING SPRINKLERS
+
+FIREGUARD CORP.
+
+      Model A
+
+FIREMATIC SPRINKLER DEVICES INC.
+
+      Model S
+      Model A (with glass bulb)
+      Model A-1
+      Model A-2
+
+GLOBE FIRE SPRINKLER CORP.
+
+      Model JN, GS8106, GS8107, GS8109, GS8118, GS8119, GS8127, GS8133,
+      GS8101, GS8102, GS8115, GS8116, GS8108, GS8120, GS8103, GS8117,
+      GS8156, GS8159, GS8164, GS8171, GS8176, GS8151, GS8152, GS8161,
+      GS8162, GS8158, GS8166, GS8153, GS8163, GS5601, GS5602, GS5615,
+      GS5616, GS5626, GS5632, GS5603, GS5617, GS5604, GS5605, GS5651,
+      GS5652, GS5661, GS5662, GS5670, GS5675, GS5653, GS5663, GS5654,
+      GS5655, GGS4201, GS4215, GS4226, GS4204, GS4251, GS4261, GS4270,
+      GS4254, GS2801, GS2815, GS2826, GS2804, GS2851, GS2861, GS2870,
+      GS2854
+
+      Model J-46, GS8128, GS8172
+      Model J-612, GS8129, GS8173
+      Model J-1220, GS8174
+      Model JN/RES/HSW, GS4230, GS5630
+      Model JN/RES/Concealed, GS4211, GS3511, GS3547, GS4247
+      Model JN/RES/2, GS5631
+      Model JN/RES/3, GS2810, GS4210
+      Model JN/RES/4, GS4234
+      Model X, GS1112, GS1113, GS1114, GS1121, GS1122, GS1123, GS1160,
+      GS1167
+
+      ESFR-14, GL1401
+
+
+
+
+                                     2
+Issued:  April 2002
+Revised: November 2009
+
+
+                              LIST A (Cont.)
+GRINNELL CORP.
+
+      Model G100, G1100
+      Model G102, G1102
+      Model F920A
+      Model F920B
+      Model F920C
+
+
+GRUNAU SPRINKLER MANUFACTURING COMPANY INC.
+
+      Model PH-1
+
+RELIABLE AUTOMATIC SPRINKLER CO.
+
+      Model A
+      Model B, R1815
+      Model ZX-RES, R3311, R3314, R3331
+      Model ZX-RES/2, R3319
+      Model ZX-1, R3411, R3431, R3414
+      Model ZX-QR-INST, R3711, R3714
+      Model ZX-QR-HSWINST, R3731
+      Model ZX-QR-EC HSW, R5261
+      Model ZX-SR-INST, R3811, R3814, R3831
+
+SPRAYSAFE AUTOMATIC SPRINKLERS, LTD.
+
+      Model B15
+      Model S15
+      Model S15-C
+      Model SQ15
+      Model SQ15-C
+
+STAR SPRINKLER CORP.
+
+      Model PH-1
+      Model PH-2
+      Model PH-5
+
+
+
+
+                                    3
+Issued:  April 2002
+Revised: November 2009
+
+
+                          LIST A (Cont.)
+STAR SPRINKLER INC.
+
+      Model PH-2, S1687
+      Model PH-5, S2046
+      Model S100, S2687
+      Model S102, S3046
+
+VENUS FIRE PROTECTION, LTD(ASTRA SPRINKLERS, LTD.)
+
+      Model U
+
+
+
+
+                                4
+Issued:  April 2002
+Revised: November 2009
+
+                                   LIST B
+
+                 “DRY” TYPE O-RING SPRINKLERS
+
+ASTRA SPRINKLERS, LTD. (VENUS FIRE PROTECTION, LTD.)
+
+      Model B
+
+FIREMATIC SPRINKLER DEVICES INC.
+
+      Model A
+      Model S
+      Model TU57
+      Model UD
+
+GLOBE FIRE SPRINKLER CORP.
+
+      Model G
+      Model J (Recalled in June 2007)
+
+GRINNELL CORP.
+
+      Model F960, G6036, G6038, G6096, G6098, G6034, G6094, G6095, G6035
+
+RELIABLE AUTOMATIC SPRINKLER CO., INC.
+
+      Model G3, R1616, R1636
+      Model G3A, R1696
+      Model G3FR, R4216, R4236
+
+STAR SPRINKLER INC.
+
+      Model S170, S3230, S3233, S3240, S3243
+      Model S176, S3234, S3244
+      Model S178, S3235
+
+
+
+
+                                        5
+

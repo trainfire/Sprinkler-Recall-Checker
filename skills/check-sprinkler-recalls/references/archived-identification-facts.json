@@ -1,0 +1,183 @@
+{
+  "review_date": "2026-10-13",
+  "archived_landing_page": "https://web.archive.org/web/20230324083740/https://sprinklerreplacement.com/involved_download.php",
+  "landing_capture": "20230324083740",
+  "retrieval": "Full archived HTML retrieved directly; search web reader could not open it.",
+  "canonical_bundled_pdf": "../assets/tyco-identification-guide.pdf",
+  "download_categories": [
+    {
+      "table": "A",
+      "label": "Central commercial",
+      "original_relative_path": "images/Bro_Cent_Comm.pdf",
+      "download_capture": "20221129001527",
+      "download_url": "https://web.archive.org/web/20221129001527if_/https://www.sprinklerreplacement.com/images/Bro_Cent_Comm.pdf",
+      "pages": 17,
+      "table_page": 7,
+      "sha256": "9cbfae0700bb5296d553f45f48feece276ea62ea6d1233af00c11289b763c8ad",
+      "verification": "Binary PDF retrieved, text extracted and table compared with complete brochure; no additional model population found.",
+      "bundling": "Complete equivalent content already in canonical 27-page identification PDF; subset PDF not duplicated."
+    },
+    {
+      "table": "B",
+      "label": "Central residential",
+      "original_relative_path": "images/Bro_Cent_Residental.pdf",
+      "download_capture": "20230927040720",
+      "download_url": "https://web.archive.org/web/20230927040720if_/https://www.sprinklerreplacement.com/images/Bro_Cent_Residental.pdf",
+      "pages": 11,
+      "table_page": 7,
+      "sha256": "1b505e35cddacc5b13f14669bceb2601623de9e3194a895976f6c7854ea0ad42",
+      "verification": "Binary PDF retrieved, text extracted and table compared with complete brochure; no additional model population found.",
+      "bundling": "Complete equivalent content already in canonical 27-page identification PDF; subset PDF not duplicated."
+    },
+    {
+      "table": "C",
+      "label": "Central special purpose",
+      "original_relative_path": "images/Bro_Cent_SplPurp.pdf",
+      "download_capture": "20230927061512",
+      "download_url": "https://web.archive.org/web/20230927061512if_/https://www.sprinklerreplacement.com/images/Bro_Cent_SplPurp.pdf",
+      "pages": 10,
+      "table_page": 7,
+      "sha256": "8fefa0cef6ed0e3911217c4b24ae92c433d8c64db8458ea72dad43baf158fab4",
+      "verification": "Binary PDF retrieved, text extracted and table compared with complete brochure; no additional model population found.",
+      "bundling": "Complete equivalent content already in canonical 27-page identification PDF; subset PDF not duplicated."
+    },
+    {
+      "table": "D",
+      "label": "Central dry type",
+      "original_relative_path": "images/Bro_Cent_Dry.pdf",
+      "download_capture": "20230927050513",
+      "download_url": "https://web.archive.org/web/20230927050513if_/https://www.sprinklerreplacement.com/images/Bro_Cent_Dry.pdf",
+      "pages": 11,
+      "table_page": 7,
+      "sha256": "66e31981c793d86b9e01fd8752e3bed08782ee1c74b090e631814e6d693b11f8",
+      "verification": "Binary PDF retrieved, text extracted and table compared with complete brochure; no additional model population found.",
+      "bundling": "Complete equivalent content already in canonical 27-page identification PDF; subset PDF not duplicated."
+    },
+    {
+      "table": "E",
+      "label": "Gem on/off",
+      "original_relative_path": "images/Bro_Gem_OnOff.pdf",
+      "download_capture": "20230927061244",
+      "download_url": "https://web.archive.org/web/20230927061244if_/https://www.sprinklerreplacement.com/images/Bro_Gem_OnOff.pdf",
+      "pages": 7,
+      "table_page": 7,
+      "sha256": "cce23e23a14a93edf404b21ad7e05a089e65857ba623095426950b1a2e4d327d",
+      "verification": "Binary PDF retrieved, text extracted and table compared with complete brochure; no additional model population found.",
+      "bundling": "Complete equivalent content already in canonical 27-page identification PDF; subset PDF not duplicated."
+    },
+    {
+      "table": "F",
+      "label": "Star dry type",
+      "original_relative_path": "images/Bro_Star.pdf",
+      "download_capture": "20230927062447",
+      "download_url": "https://web.archive.org/web/20230927062447if_/https://www.sprinklerreplacement.com/images/Bro_Star.pdf",
+      "pages": 10,
+      "table_page": 7,
+      "sha256": "5bf29c21dbfb5acb887aa5eec8317e0e38a1cdb6383f547f0b75313e1f0a8f48",
+      "verification": "Binary PDF retrieved, text extracted and table compared with complete brochure; no additional model population found.",
+      "bundling": "Complete equivalent content already in canonical 27-page identification PDF; subset PDF not duplicated."
+    }
+  ],
+  "temperature_cues": {
+    "source": "Brochure page 2; contextual identification only, not recall criteria or current replacement selection.",
+    "bulb_fluid": [
+      {
+        "f": 135,
+        "c": 57,
+        "color": "orange"
+      },
+      {
+        "f": 155,
+        "c": 68,
+        "color": "red"
+      },
+      {
+        "f": 175,
+        "c": 79,
+        "color": "yellow"
+      },
+      {
+        "f": 200,
+        "c": 93,
+        "color": "green"
+      },
+      {
+        "f": 250,
+        "c": 121,
+        "color": "blue"
+      },
+      {
+        "f": 286,
+        "c": 141,
+        "color": "blue"
+      },
+      {
+        "f": 360,
+        "c": 182,
+        "color": "purple"
+      }
+    ],
+    "solder_frame_or_deflector_mark": [
+      {
+        "f": 135,
+        "c": 57,
+        "color": "plain"
+      },
+      {
+        "f": 165,
+        "c": 74,
+        "color": "plain"
+      },
+      {
+        "f": 212,
+        "c": 100,
+        "color": "white"
+      },
+      {
+        "f": 286,
+        "c": 141,
+        "color": "blue"
+      },
+      {
+        "f": 360,
+        "c": 182,
+        "color": "red"
+      }
+    ],
+    "limits": [
+      "Do not infer manufacture date from a temperature rating.",
+      "Blue bulb fluid is ambiguous between 250 and 286 F in this brochure.",
+      "Frame/deflector coating and bulb liquid are different cues.",
+      "Confirm markings and candidate-specific literature; photograph color alone does not determine temperature or recall."
+    ]
+  },
+  "component_figure_map": {
+    "source_page": 3,
+    "A": "Typical upright",
+    "B": "Concealed sprinkler and ceiling cover plate",
+    "C": "Typical pendent",
+    "D": "Attic sprinkler with solder link and special deflector",
+    "E": "Horizontal sidewall",
+    "F": "O-ring seal section",
+    "G": "Belleville seal section",
+    "H": "Dry pendent with solder strut",
+    "J": "Dry concealed pendent",
+    "K": "Dry horizontal sidewall",
+    "limits": "Introductory Figure F is not seal-cap Style F on page 9. Do not equate letter labels across these figures."
+  },
+  "dry_construction_cue": {
+    "source_pages": [
+      2,
+      25,
+      26,
+      27
+    ],
+    "cue": "The guide illustrates a weep hole in the cap and a separate dry barrel/inlet.",
+    "limits": "This cue is candidate-specific; do not universalize it or use an indistinct dark spot as proof. Do not probe or manipulate a sprinkler to find a hole. Not a visible rubber O-ring."
+  },
+  "archive_date_limits": [
+    "A Wayback capture date is not a manufacturing year, brochure revision date or new recall date.",
+    "Followed links resolved to different captures; the landing date cannot be assigned to every linked file.",
+    "Historical hotline, payment/claim instructions and generalized testing intervals are not current advice."
+  ]
+}

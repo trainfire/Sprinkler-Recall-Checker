@@ -1,0 +1,1220 @@
+EXTRACT OF EXISTING BUNDLED PDF; page breaks preserved. Historical instructions are not current field directions. Skill field limits take precedence; do not manipulate installed sprinklers.
+
+IDENTIFICATION BROCHURE
+           FOR
+   WET AND DRY O-RING
+       SPRINKLERS
+
+
+
+
+          –1–
+       INTRODUCTION TO THE “VOLUNTARY REPLACEMENT PROGRAM”
+This brochure provides information that will assist you in identifying whether the sprinklers in your
+sprinkler system are the O-ring sprinklers involved in this Voluntary Replacement Program (“VRP”
+or “Program”). In addition, this brochure contains information that you will need to accurately
+complete your Proof of Claim form and participate in the VRP. Please read this brochure care-
+fully and follow all instructions closely.
+DO NOT ATTEMPT TO REMOVE OR DISTURB YOUR SPRINKLER HEADS
+WHILE TRYING TO IDENTIFY YOUR SPRINKLERS.
+General Description of the O-Ring Fire Sprinklers Involved in this VRP
+All the automatic fire sprinklers involved in this VRP utilize a heat-sensing element, for example,
+a liquid filled glass bulb (Fig. A), a solder link (Fig. D), or a solder strut (Fig. H), loaded within the
+sprinkler’s “frame” (Fig. A, C, D, or E). The frame is the piece of metal at the end of the sprinkler
+closest to the wall, ceiling, or pipe that is connected to the sprinkler via pipe threads. The heat-
+sensing element holds the sprinkler “cap” (Fig. A, C, D, or E) in the “orifice,” blocking the flow of
+water through the orifice from the water supply. Should a fire occur, sufficient heat from the fire
+automatically releases the heat sensing element permitting the water to push the “cap” out of the
+waterway and strike against the “deflector.” The “deflector” is the rounded plate furthest from the
+wall, ceiling, or pipe that typically resembles a starburst, flower, or gear. The deflector distributes
+water in a desirable spray pattern to provide fire control.
+The heat sensing elements are provided in a variety of operating temperatures and the sprinklers
+incorporate a temperature identification system that combines a stamping on the sprinkler with a
+color code. The stamping will typically appear on either the “cap” or the “deflector”. Color coding
+is as follows:
+   Typical Bulb Ratings          Fluid Color     Typical Solder Ratings       Frame Color*
+         135F/57C                  Orange               135F/57C                    Plain
+         155F/68C                     Red               165F/74C                    Plain
+         175F/79C                    Yellow            212F/100C                   White
+         200F/93C                    Green             286F/141C                    Blue
+        250F/121C                     Blue             360F/182C                    Red
+        286F/141C                     Blue           *Stripe on frame or dot on deflector
+        360F/182C                   Purple
+The fire sprinklers involved in this Program use an “O-ring Seal Design” (Fig. F) to seal the
+sprinkler waterway. These O-ring sprinklers are being replaced with sprinklers that utilize
+a “Belleville Seal Design” (Fig. G).
+The O-ring sprinklers involved in this Program are found in two categories of sprinkler systems:
+wet sprinkler systems or dry sprinkler systems. Wet sprinkler systems deliver water immediately
+upon sprinkler activation and can be used in areas not subject to freezing. In dry sprinkler systems
+(Fig. H, J, or K) the sprinklers are attached to a dry length of pipe. Sprinkler operation releases
+the seal and inner tube thus allowing the sprinkler to operate. Once the sprinkler has operated, a
+control type valve such as a dry pipe valve opens, filling the pipe with water and delivering water
+to the open sprinklers. Dry type sprinklers are commonly used where a sprinkler must be located
+in an area subject to freezing yet water-filled supply piping is in an area not subject to freezing.
+For example, sprinkler drops into a freezer or sprinkler sprigs up into an attic where the water
+supply pipes are located in the heated areas outside the freezer or attic. Dry sprinklers will have
+a small hole (a small “weep hole”) on the “cap” or seal.
+
+                                                  –2–
+A                                  B                        C
+
+                                                                                     BULB
+
+
+                                                                                      CAP
+
+
+                                                                                 O-RING
+                                                                                  SEAL
+
+
+                                                                                     FRAME
+
+
+                                                                                WATERWAY
+
+D                                  E                        F   O-RING SEAL DESIGN
+
+                                             NORMALLY
+                                              CLOSED
+                                               INLET
+                        BULB
+
+
+                         CAP
+
+
+                      BELLEVILLE
+                         SEAL
+
+
+                        FRAME
+
+
+                      WATERWAY             TYPICAL DRY
+                                            PENDENT
+    BELLEVILLE SEAL DESIGN                 SHOWN WITH
+                                        SOLDER STRUT HEAT
+
+G                                  H     SENSING ELEMENT
+                                                            J
+
+
+
+
+K
+                                       –3–
+The sprinklers in the VRP can be found in various installed positions to accommodate building
+construction and aesthetic considerations. Commonly, the sprinklers are either upright or pen-
+dent. Upright sprinklers (Fig. A) have the deflector on top and are usually located on top of
+horizontal piping. Pendent sprinklers (Fig. C) hang with the deflector facing the floor; they are
+often installed with optional escutcheon plates to cover clearance holes in ceilings and some-
+times the sprinklers are “concealed” behind the removable cover plates (Fig. B). In addition to
+upright and pendent sprinklers, horizontal sidewall sprinklers (Fig. E), as the name implies, are
+located along a side-wall or side of a beam. Similar to pendent sprinklers, the horizontal sidewall
+sprinklers are often installed with optional escutcheon plates to cover clearance holes in the wall.
+
+
+          Precautionary Steps in Identifying Your Sprinklers
+Prior to attempting the identification of a given sprinkler as being part of this Program,
+please review the following safety warnings:
+Prior to attempting to view installed sprinklers, consult sprinkler system drawings, records of
+installation and/or maintenance and spare heads located in the spare head box to attempt to
+identify the sprinkler model(s) installed in your sprinkler system.
+If you are unable to determine what type of sprinklers you have in this manner, you may try to get
+close enough to the sprinklers to visually inspect them. Caution must always be exercised when
+climbing a ladder, using lifts, and scaffold to view installed sprinklers. Do not attempt to visually
+inspect your sprinklers if doing so places you in a precarious position.
+Caution should be used at all times when attempting to identify and view sprinklers. The glass
+bulb or heat-sensitive element can be easily damaged, causing the sprinkler to activate. If you
+are required to remove a cover plate for a concealed sprinkler, use caution not to disturb the
+sprinkler or damage the operating element which may cause activation of the sprinkler. Do not
+apply sources of heat and do not strike, disturb, or apply pressure to the glass bulb or activation
+element of the sprinkler. MORE IMPORTANTLY, DO NOT REMOVE YOUR SPRINKLERS IN
+ORDER TO IDENTIFY THEM. Sprinkler systems contain water under pressure or compressed
+air/gas that can cause severe damage or personal injury if sprinklers are removed while under
+pressure. Proper draining of a sprinkler system by a professional sprinkler installer prior to sprin-
+kler removal is required to protect the building from water damage. If a sprinkler is to be removed
+or installed after the system has been properly shut down and drained, only the approved sprin-
+kler wrench for the model sprinkler being removed or installed should be used to prevent damage
+to the sprinkler(s). Maintenance of sprinkler systems should be completed by a qualified, profes-
+sional fire sprinkler contractor in accordance with local and national guidelines. Sprinkler sys-
+tems should be regularly inspected and maintained by a professional fire protection installer. All
+sprinkler heads in a sprinkler system should be tested, and replaced if necessary, no later than
+ten years after installation.
+
+
+
+
+                                                –4–
+IF YOU CANNOT IDENTIFY THE TYPE OF SPRINKLERS INSTALLED IN
+YOUR SPRINKLER SYSTEM, PLEASE CONSULT WITH A PROFESSIONAL
+FIRE SPRINKLER CONTRACTOR.
+                  Identification of Your Sprinklers
+First.  Visually inspect your sprinklers, noting the “frame” and the “deflector.” The sprinkler
+        model may appear on the frame or deflector (Figs. A-G).
+Second. Make note of all of the inscriptions (including the year of manufacture) on the sprinkler
+        “frame” and the sprinkler “deflector”. In the case of concealed sprinklers, remove
+        (unscrew in most cases) the cover plate to observe the deflector inscriptions. Many
+        sprinklers used in the fire protection industry contain similar components and look
+        similar to each other. It is important to review the inscriptions on the sprinkler to properly
+        identify certain Central, Gem, and Star models included in this Program.
+          .   The presence of either a “CENTRAL” or “CSC” marking will at first verify the sprinkler
+              as having been manufactured by Central Sprinkler Company.
+          .   The presence of a “G in a Triangle” marking will at first verify the sprinkler as having
+              been manufactured by Gem Sprinkler Company.
+          .   The presence of either a “STAR” or “Star shaped logo” marking will at first verify the
+              sprinkler as having been manufactured by Star Sprinkler Company.
+          The VRP includes sprinklers having O-ring seals and that are listed in the following
+          tables:
+          . Central: Tables A, B, C, and D (Pages 7 and 8)
+          . Gem: Table E (Page 8)
+          . Star: Table F (Page 8)
+Third.    After verifying manufacture by Central, Gem, or Star, match the alpha and numeric
+          inscriptions to the model identifiers given in Tables A, B, C, D, E, and F as applicable.
+          (Only those models identified in Tables A, B, C, D, E, and F having O-ring seals are
+          part of this Program.) By referring to the figure number referenced in the “Figure” column,
+          a further identification of the sprinkler can be confirmed. It is important to properly
+          identify the model(s) of sprinklers installed in a building as sprinklers have different
+          performance characteristics. Replacement with sprinklers of different performance
+          characteristics may impair the sprinkler system’s ability to control or extinguish a fire. If
+          your sprinklers are dry type sprinklers, you will also need to determine the length of the
+          supply pipe. Due to varying locations of the sprinkler supply pipe to the desired location
+          of a dry type sprinkler, dry type sprinklers are made to order with a desired length. The
+          length is normally determined by measuring from the face of the sprinkler fitting (the
+          pipe fitting into which the dry type sprinkler will be fitted) to the face of the ceiling or wall
+          where the sprinkler is to be located. Because this pipe is often not exposed, you may
+          need to contact a professional sprinkler installer to obtain these measurements.
+
+
+
+
+                                                  –5–
+Fourth.   It is important to know that Central now manufactures sprinklers with Belleville seals,
+          which are a different design than the sprinklers with O-ring seals that are subject of this
+          Program. Where applicable, the Table indicates “Yes” in the “Sprinklers May Contain
+          O-ring or Belleville Seal” column. Central did not manufacture sprinklers with Belleville
+          seals until 1998, although Central also continued to manufacture sprinklers with O-ring
+          seals after 1998. Note: The year of manufacture is typically stamped on the
+          deflector as four digits (e.g., 1984). If the four digits for the year of manufacture
+          cannot be found on the deflector, the year of manufacture will appear on the
+          frame. You can determine whether your sprinklers contain O-ring seals or Belleville
+          seals in the following manner:
+          .   If a Central sprinkler has been identified as being included in Tables A, B, or C and
+              if the year stamped on the “frame” or “deflector” is 1997 or earlier, or “No” is indicated
+              in the “Sprinklers May Contain O-ring or Belleville Seal” column for any given year
+              of manufacture, the sprinkler has an O-ring seal and is part of the Program.
+          .   If a Central sprinkler has been identified as being included in Tables A, B, or C and
+              if the year stamped on the “frame” or deflector is 1998 or later, and “Yes” is indicated
+              in the “Sprinklers May Contain O-ring or Belleville Seal” column, a closer inspection
+              of the “cap” and its shape will be required to determine whether the sprinkler utilizes
+              an O-ring seal and is part of the Program.
+          .   After the “Yes” indication in the “Sprinklers May Contain O-ring or Belleville Seal”
+              column, a reference to a “Style Letter” is given. In this case, refer to the “Visualization
+              Guide” located on page 9. An examination of the “cap” shape can be used to
+              determine if the identified sprinkler has an “O-Ring Seal Design” or the newer
+              “Belleville Seal Design.” If the sprinkler is determined to have an O-ring seal, then
+              the sprinkler is part of the Program.
+Fifth.    Call Central O-ring Sprinkler Replacement Customer Service Hotline at (866) 505-
+          8553, if there is any doubt as to the type of sprinkler you have installed in your home or
+          building. Please be prepared to provide all of the noted inscriptions, as well as the use
+          of the building (e.g., residential, hotel, manufacturing, storage, retail, etc.).
+
+
+
+
+                                                 –6–
+TABLE A — “CENTRAL” COMMERCIAL SPRINKLERS
+                                                                           Sprinkler May Contain
+                                                              Heat Sensing O-ring Or Belleville Seal
+ Model            K-Factor Type/Orientation            Figure Element      (See Guide - Page 9)
+ ELOC              11.2    Concealed Pendent           01     Solder Link   Yes (Style F)
+ ELO GB            11.2    Pendent and Upright         02     Glass Bulb    NO*
+ ELO GB QR         11.2    Pendent and Upright         03     Glass Bulb    NO*
+ ELO-LH            11.2    Pendent                     04     Glass Bulb    NO*
+ ELO SW20          11.2    Horizontal Sidewall         05     Glass Bulb    Yes (Style B)
+ ELO SW24          11.2    Horizontal Sidewall         06     Glass Bulb    Yes (Style B)
+ ELO-16 GB         11.2    Pendent and Upright         07     Glass Bulb    NO*
+ ELO-16 GB FR      11.2    Pendent and Upright         08     Glass Bulb    NO*
+ ELO-231 GB        11.2    Pendent and Upright         09     Glass Bulb    Yes (Style D & E)
+ ELO-231 GB QR 11.2        Pendent and Upright         10     Glass Bulb    Yes (Style D & E)
+ ESLO              14.0    Pendent and Upright         11     Glass Bulb    NO*
+ ESLO-20 GB        14.0    Pendent and Upright         12     Glass Bulb    NO*
+ GB                5.6     Pendent and Upright         13     Glass Bulb    Yes (Style A)
+ GB                5.6     Horizontal Sidewall         14     Glass Bulb    Yes (Style A)
+ GB Multi Level    5.6     Upright                     15     Glass Bulb    Yes (Style A)
+ GB-ALPHA          5.6     Pendent                     16     Glass Bulb    NO*
+ GB-EC             5.6     Pendent                     17     Glass Bulb    Yes (Style A)
+ GB-EC             5.6     Horizontal Sidewall         18     Glass Bulb    Yes (Style A)
+ GB-J              5.6     Pendent and Upright         19     Glass Bulb    Yes (Style A)
+ GB-LO             8.0     Horizontal Sidewall         20     Glass Bulb    NO*
+ GB-QR             4.2     Pendent and Upright         21     Glass Bulb    Yes (Style A)
+ GB-QR             5.6     Pendent and Upright         22     Glass Bulb    Yes (Style A)
+ GB-QR             5.6     Horizontal Sidewall         23     Glass Bulb    Yes (Style A)
+ GB-QR Multi Level 5.6     Upright                     24     Glass Bulb    Yes (Style A)
+ GB-1              5.6     Pendent and Upright         25     Glass Bulb    NO*
+ GB4               5.6     Concealed Pendent           26     Glass Bulb    Yes (Style C)
+ GB4-EC            5.6     Concealed Pendent           27     Glass Bulb    Yes (Style C)
+ GB4-FR            5.6     Concealed Pendent           28     Glass Bulb    Yes (Style C)
+ GB4QREC           5.6     Concealed Pendent           29     Glass Bulb    Yes (Style C)
+ GB20              8.0     Pendent                     30     Glass Bulb    NO*
+ GB20-QR           8.0     Pendent                     31     Glass Bulb    Yes (Style B)
+ K17-231           16.8    Pendent and Upright         32     Glass Bulb    Yes (Style C)
+ LD                11.2    Upright                     33     Glass Bulb    Yes (Style B)
+ ULTRA K17         16.8    Upright                     34     Glass Bulb    Yes (Style C)
+
+TABLE B — “CENTRAL” RESIDENTIAL SPRINKLERS
+                                                                           Sprinkler May Contain
+                                                              Heat Sensing O-ring Or Belleville Seal
+ Model            K-Factor Type/Orientation            Figure Element      (See Guide - Page 9)
+ GBR              4.3      Pendent                     35     Glass Bulb    Yes (Style A)
+ GBR              4.3      Pendent Concealed           36     Glass Bulb    Yes (Style A)
+ GBR              5.4      Horizontal Sidewall         37     Glass Bulb    Yes (Style A)
+ GB-R             5.4      Horizontal Sidewall         38     Glass Bulb    NO*
+ GB-R1            5.3      Pendent                     39     Glass Bulb    Yes (Style A)
+ GBR-2            4.3      Pendent                     40     Glass Bulb    Yes (Style A)
+ GB-RS            4.3      Pendent                     41     Glass Bulb    NO*
+ LF               3.0      Pendent                     42     Glass Bulb    Yes (Style C)
+ LF               3.5      Horizontal Sidewall         43     Glass Bulb    Yes (Style A)
+ ROC              4.2      Concealed Pendent           44     Solder Link   Yes (Style F)
+
+
+* THERE WAS NO O-RING TO BELLEVILLE DESIGN CHANGE FOR THIS MODEL.
+
+
+
+
+                                                 –7–
+TABLE C - “CENTRAL” SPECIAL PURPOSE SPRINKLERS
+                                                                           Sprinkler May Contain
+                                                              Heat Sensing O-ring Or Belleville Seal
+ Model          K-Factor Type/Orientation              Figure Element      (See Guide - Page 9)
+ BB1            5.6      Attic                         45A    Solder Link    Yes (Style F)
+ BB2            5.6      Attic                         45B    Solder Link    Yes (Style F)
+ BB3            5.6      Attic                         45C    Solder Link    Yes (Style F)
+ BB1 17/32      8.0      Attic                         46A    Glass Bulb     Yes (Style B)
+ BB2 17/32      8.0      Attic                         46B    Glass Bulb     Yes (Style B)
+ BB3 17/32      8.0      Attic                         46C    Glass Bulb     Yes (Style B)
+ HIP            5.6      Attic                         47     Glass Bulb     Yes (Style A)
+ SD1            5.6      Attic                         48A    Solder Link    Yes (Style F)
+ SD2            5.6      Attic                         48B    Solder Link    Yes (Style F)
+ SD3            5.6      Attic                         48C    Solder Link    Yes (Style F)
+ WS             5.6      Window, Vertical              49     Glass Bulb     Yes (Style A)
+ WS             5.6      Window, Horizontal            50     Glass Bulb     Yes (Style A)
+TABLE D — “CENTRAL” DRY TYPE SPRINKLERS
+                                                                           Sprinkler May Contain
+                                                              Heat Sensing O-ring Or Belleville Seal
+ Model          K-Factor Type/Orientation              Figure Element      (See Guide - Page 9)
+ A-1            5.6      Pendent &
+                         Concealed Pendent             51     Solder Strut   NO*
+ GB             5.6      Pendent &
+                         Horizontal Sidewall           52     Glass Bulb     NO*
+ GB QR          5.6      Pendent &
+                         Horizontal Sidewall           53     Glass Bulb     NO*
+ GB4            5.6      Concealed Pendent             54A    Glass Bulb     NO*
+ GB4-EC         5.6      Concealed Pendent             54B    Glass Bulb     NO*
+ GB4-FR         5.6      Concealed Pendent             54C    Glass Bulb     NO*
+ GB4-QREC       5.6      Concealed Pendent             54D    Glass Bulb     NO*
+ ELO-16 GB      11.2     Pendent                       55A    Glass Bulb     NO*   Replacement with
+ ELO-231 GB     11.2     Pendent                       55B    Glass Bulb     NO*   Belleville Seal will
+ ELO-16 GB FR   11.2     Pendent                       55C    Glass Bulb     NO*   be marked “TY” on
+                                                                                   the deflector.
+ ELO-GB QR      11.2     Pendent                       55D    Glass Bulb     NO*
+ H-1            5.6      Horizontal Sidewall           56     Solder Strut   NO*
+ J              5.6      Pendent                       57     Solder Strut   NO*
+ K              5.6      Concealed Pendent             58     Solder Strut   NO*
+TABLE E — “GEM and STAR” ON-OFF SPRINKLERS
+                                                                           Sprinkler May Contain
+                                                              Heat Sensing O-ring Or Belleville Seal
+ Model          K-Factor Type/Orientation              Figure Element      (See Guide - Page 9)
+ F927           5.6      Pendent                       59     Glass Bulb     NO*
+TABLE F — “STAR” DRY TYPE SPRINKLERS
+                                                                           Sprinkler May Contain
+                                                              Heat Sensing O-ring Or Belleville Seal
+ Model          K-Factor Type/Orientation              Figure Element      (See Guide - Page 9)
+ ME-1 Dry       5.6      Pendent, Upright,
+                         Horizontal Sidewall,
+                         & Vertical Sidewall           60     Solder Strut   NO*
+ SG Dry         5.6      Pendent, Upright
+                         & Horizontal Sidewall         61     Glass Bulb     NO*
+ SG (QR) Dry    5.6      Pendent, Upright
+                         & Horizontal Sidewall         62     Glass Bulb     NO*
+ Q Dry          5.6      Pendent Concealed             63     Glass Bulb     NO*
+ QR-Q Dry       5.6      Pendent Concealed             64     Glass Bulb     NO*
+* THERE WAS NO O-RING TO BELLEVILLE DESIGN CHANGE FOR THIS MODEL.
+
+                                                 –8–
+                 VISUALIZATION GUIDE
+STYLE           O-RING SEAL DESIGN                      BELLEVILLE SEAL DESIGN
+
+
+        BULB                          FLAT      BULB                         CONICAL
+                                      CAP                                      CAP
+
+
+ A      FRAME                                   FRAME
+
+
+
+
+        BULB                       FLAT CAP     BULB                             RAISED
+                                 (ESSENTIALLY                                     EDGE
+                                    FLUSH)                                         CAP
+
+
+ B      FRAME                                   FRAME
+
+
+
+
+        BULB                       FLAT CAP     BULB                             RAISED
+                                 (ESSENTIALLY                                     FLAT
+                                    FLUSH)                                        CAP
+
+
+ C      FRAME                                   FRAME
+
+
+
+
+        BULB                                    BULB                             RAISED
+                                     STEPPED
+                                                                                  FLAT
+                                       CAP
+                                                                                  CAP
+
+
+ D      FRAME                                   FRAME
+
+
+
+
+        BULB                                    BULB                             RAISED
+                                     STEPPED
+                                                                                  FLAT
+                                       CAP
+                                                                                  CAP
+
+
+ E      FRAME                                   FRAME
+
+
+
+
+                                      COIL                                         NO
+                                     SPRING                                      SPRING
+
+
+ F      FRAME                                   FRAME
+
+
+
+
+                                 –9–
+                                                     COVER PLATE IS REMOVED
+                                                        BY UNSCREWING
+                                                      COUNTER-CLOCKWISE
+
+                                                         PENDENT
+                                                        DEFLECTOR
+                                                                                        "CSC"
+
+
+
+
+                                                                                        "ELOC"
+
+
+
+
+                                                     Figure 01
+                                                     ELOC, K=11.2, Concealed Pendent
+                                                     CENTRAL
+
+
+
+
+       PENDENT                       UPRIGHT               PENDENT                      UPRIGHT
+      DEFLECTOR                     DEFLECTOR             DEFLECTOR                    DEFLECTOR
+
+
+
+
+          "CSC"
+                                                             "ELO QR"
+
+Figure 02                                            Figure 03
+ELO GB, K=11.2, Pendent & Upright                    ELO GB QR, K=11.2, Pendent & Upright
+CENTRAL                                              CENTRAL
+
+
+                                            – 10 –
+                                                                           HORIZONTAL
+                                                                            SIDEWALL
+   PENDENT
+                                                              "SW-20"      DEFLECTOR
+  DEFLECTOR
+
+
+
+
+                                   "ELO LH"
+
+
+
+Figure 04                                               Figure 05
+ELO-LH, K=11.2, Pendent                                 ELO SW20, K=11.2, Horizontal Sidewall
+CENTRAL                                                 CENTRAL
+
+
+
+
+                   HORIZONTAL
+                    SIDEWALL                            PENDENT              UPRIGHT
+     "SW-24"       DEFLECTOR                           DEFLECTOR            DEFLECTOR
+
+
+
+
+                                                                        "ELO-16 GB"
+Figure 06                                              Figure 07
+ELO SW24, K=11.2, Horizontal Sidewall                  ELO-16 GB, K=11.2, Pendent & Upright
+CENTRAL                                                CENTRAL
+
+
+                                              – 11 –
+ PENDENT                UPRIGHT                                PENDENT                     UPRIGHT
+DEFLECTOR              DEFLECTOR                              DEFLECTOR                   DEFLECTOR
+
+
+
+
+                  "ELO-16 GB FR"                                 "ELO-231"
+
+Figure 08                                               Figure 09
+ELO-16 GB FR, K=11.2, Pendent & Upright                 ELO-231 GB, K=11.2, Pendent & Upright
+CENTRAL                                                 CENTRAL
+
+
+
+
+       PENDENT                      UPRIGHT                        PENDENT             UPRIGHT
+      DEFLECTOR                    DEFLECTOR                      DEFLECTOR           DEFLECTOR
+
+
+
+
+       "ELO-231 QR"                                                          "ESLO"
+
+Figure 10                                               Figure 11
+ELO-231 GB QR, K=11.2, Pendent & Upright                ESLO, K=14.0, Pendent & Upright
+CENTRAL                                                 CENTRAL
+
+
+
+                                               – 12 –
+             PENDENT            UPRIGHT                       PENDENT                     UPRIGHT
+            DEFLECTOR          DEFLECTOR                     DEFLECTOR                   DEFLECTOR
+
+
+
+
+                   "ESLO-20"
+
+ Figure 12                                          Figure 13
+ ESLO-20 GB, K=14.0, Pendent & Upright              GB, K=5.6, Pendent & Upright
+ CENTRAL                                            CENTRAL
+
+
+
+
+                                                           5mm (3/16”) DIAMETER GLASS BULB
+
+
+
+                  HORIZONTAL                                    UPRIGHT
+                   SIDEWALL                                      SHIELD
+                  DEFLECTOR
+
+
+
+
+Figure 14                                           Figure 15
+GB, K=5.6, Horizontal Sidewall                      GB, K=5.6, Multi Level, Upright
+CENTRAL                                             CENTRAL
+
+
+                                           – 13 –
+                               ADJUSTABLE
+                                 NIPPLE
+       LABEL
+
+
+
+
+    ESCUTCHEON
+                                                                                PENDENT
+                                                                               DEFLECTOR
+                                                            "EC/QR-EC"
+
+
+        GB                      "CENTRAL"
+     SPRINKLER                     "GB"
+
+
+
+               O-RING SEAL DESIGN
+
+ Figure 16                                           Figure 17
+ GB-ALPHA, K=5.6, Pendent                            GB-EC, K=5.6, Pendent
+ CENTRAL                                             CENTRAL
+
+
+
+
+                  HORIZONTAL                                                             UPRIGHT
+ "EC/QR-EC"                                                                             DEFLECTOR
+                   SIDEWALL                           PENDENT
+                  DEFLECTOR                          DEFLECTOR     "GB-J"
+
+
+
+
+Figure 18                                            Figure 19
+GB-EC, K=5.6, Horizontal Sidewall                    GB-J, K=5.6, Pendent and Upright
+CENTRAL                                              CENTRAL
+
+
+                                            – 14 –
+                                                         THE PINTLE INDICATES A SMALL ORIFICE (K=4.2) SPRINKLER
+
+
+
+
+                                                                    PENDENT                      UPRIGHT
+             HORIZONTAL
+                                                                   DEFLECTOR                    DEFLECTOR
+              SIDEWALL
+             DEFLECTOR
+
+
+
+
+                                                                         "QR"
+                                                                       MARKING
+
+Figure 20                                                 Figure 21
+GB-LO, K=8.0, Horizontal Sidewall                         GB-QR, K=4.2, Pendent & Upright
+CENTRAL                                                   CENTRAL
+
+
+
+
+           PENDENT                   UPRIGHT             HORIZONTAL
+          DEFLECTOR                 DEFLECTOR             SIDEWALL       "QR"
+                                                         DEFLECTOR     MARKING
+
+
+
+
+                "QR"
+              MARKING
+
+ Figure 22                                                   Figure 23
+ GB-QR, K=5.6, Pendent & Upright                             GB-QR, K=5.6, Horizontal Sidewall
+ CENTRAL                                                     CENTRAL
+
+
+                                                – 15 –
+            3mm (1/8”) DIAMETER GLASS BULB
+
+            UPRIGHT                                            PENDENT                      UPRIGHT
+             SHIELD                                           DEFLECTOR                    DEFLECTOR
+
+
+
+
+Figure 24                                             Figure 25
+GB-QR, K=5.6, Multi Level, Upright                    GB-1, K=5.6, Pendent & Upright
+CENTRAL                                               CENTRAL
+
+
+
+
+                                                      COVER PLATE IS REMOVED
+COVER PLATE IS REMOVED                                   BY UNSCREWING
+   BY UNSCREWING                                       COUNTER-CLOCKWISE
+ COUNTER-CLOCKWISE
+
+         PENDENT                                               PENDENT
+        DEFLECTOR               "CSC"                         DEFLECTOR            "CSC"
+
+
+
+                                    "GB4"                                              "GB4-EC"
+
+
+
+
+Figure 26                                               Figure 27
+GB4, K=5.6, Concealed Pendent                           GB4-EC, K=5.6, Concealed Pendent
+CENTRAL                                                 CENTRAL
+
+
+                                             – 16 –
+                                                  COVER PLATE IS REMOVED
+COVER PLATE IS REMOVED
+                                                     BY UNSCREWING
+   BY UNSCREWING
+                                                   COUNTER-CLOCKWISE
+ COUNTER-CLOCKWISE
+
+         PENDENT                                          PENDENT
+        DEFLECTOR           "CSC"                        DEFLECTOR           "CSC"
+
+                                                                             "GB4 QR-EC"
+                              "GB4-FR"
+
+
+
+
+  Figure 28                                        Figure 29
+  GB4-FR, K=5.6, Concealed Pendent                 GB4QREC, K=5.6, Concealed Pendent
+  CENTRAL                                          CENTRAL
+
+
+
+
+                PENDENT                                        PENDENT
+               DEFLECTOR                                      DEFLECTOR
+
+
+
+
+                                                                                       "QR"
+         "GB-20"                                        "GB-20"                      MARKING
+
+ Figure 30                                         Figure 31
+ GB20, K=8.0, Pendent                              GB20-QR, K=8.0, Pendent
+ CENTRAL                                           CENTRAL
+
+
+                                         – 17 –
+        PENDENT                        UPRIGHT                                     UPRIGHT
+       DEFLECTOR                      DEFLECTOR                                   DEFLECTOR
+
+
+
+
+                                      "K-17-231"                                     "LD"
+
+ Figure 32                                                  Figure 33
+ K17-231, K=16.8, Pendent & Upright                         LD, K=11.2, Upright
+ CENTRAL                                                    CENTRAL
+
+
+
+
+                           UPRIGHT                                                 PENDENT
+                          DEFLECTOR                                               DEFLECTOR
+
+
+
+                                                                 "GBR"
+
+
+
+
+                             "ULTRA K-17"
+
+
+Figure 34                                                   Figure 35
+ULTRA K17, K=16.8, Upright                                  GBR, K=4.3, Pendent
+CENTRAL                                                     CENTRAL
+
+
+                                                   – 18 –
+  COVER PLATE IS REMOVED
+   BY PULLING DOWNWARD
+                              PENDENT                             HORIZONTAL
+                             DEFLECTOR                             SIDEWALL
+                                                                  DEFLECTOR
+
+      "GBR"
+                                                                                    "GBR"
+
+
+
+
+Figure 36                                         Figure 37
+GBR, K=4.3, Concealed Pendent                     GBR, K=5.4, Horizontal Sidewall
+CENTRAL                                           CENTRAL
+
+
+
+
+                                                                                PENDENT
+         HORIZONTAL                                                            DEFLECTOR
+          SIDEWALL      "GB-R"
+         DEFLECTOR
+                                                        "GB-R1"
+
+
+
+
+Figure 38                                         Figure 39
+GB-R, K=5.4, Horizontal Sidewalll                 GB-R1, K=5.3, Pendent
+CENTRAL                                           CENTRAL
+
+
+                                         – 19 –
+                         PENDENT                                           PENDENT
+                        DEFLECTOR                                         DEFLECTOR
+
+
+                                                  "GB-RS"
+
+
+
+
+          "GBR-2"
+
+Figure 40                                    Figure 41
+GBR-2, K=4.3, Pendent                        GB-RS, K=4.3, Pendent
+CENTRAL                                      CENTRAL
+
+
+
+
+                         PENDENT                            HORIZONTAL
+          "LF"          DEFLECTOR                            SIDEWALL
+                                                            DEFLECTOR
+
+
+
+                                                                              "LF"
+
+
+
+
+Figure 42                                    Figure 43
+LF, K=3.0, Pendent                           LF, K=3.5, Horizontal Sidewall
+CENTRAL                                      CENTRAL
+
+
+                                    – 20 –
+   COVER PLATE IS REMOVED
+      BY UNSCREWING
+    COUNTER-CLOCKWISE
+
+
+
+          PENDENT                                                                "CENTRAL"
+         DEFLECTOR
+
+
+
+
+                                "CSC"
+                                                                                              { "BB1" for Fig. 45a
+                                                                                                "BB2" for Fig. 45b
+                                                                                                "BB3" for Fig. 45c
+
+
+
+            "ROC"                                                                    ATTIC BB
+                                                                                    DEFLECTOR
+Figure 44                                                    Figure 45a, 45b, 45c
+ROC, K=4.2, Concealed Pendent                                BB1 (45a), BB2 (45b), BB3 (45c),K=5.6, Attic
+CENTRAL                                                      CENTRAL
+
+
+
+
+ ATTIC BB                                                                               ATTIC HIP
+DEFLECTOR                    "CENTRAL"                                                 DEFLECTOR
+                                   "17/32"
+
+
+
+
+                                  {"BB1" for Fig. 46a
+                                   "BB2" for Fig. 46b
+                                   "BB3" for Fig. 46c
+
+                                                                                             "HIP"
+
+
+Figure 46a, 46b, 46c                                         Figure 47
+BB1 (46a), BB2 (46b), BB3 (46c),K=8.0, Attic                 HIP, K=5.6, Attic
+CENTRAL                                                      CENTRAL
+
+                                                    – 21 –
+                                                                                             VERTICAL
+                                 ATTIC SD                                                    SIDEWALL
+"CENTRAL"                                                                                   DEFLECTOR
+                                DEFLECTOR
+
+
+
+
+                                 {"SD1" for Fig. 46a
+                                  "SD2" for Fig. 46b
+                                  "SD3" for Fig. 46c
+
+
+                                                                                  "WS"
+ Figure 48a, 48b, 48c                                       Figure 49
+ SD1 (48a), SD2 (48b) ,SD3 (48c),K=5.62, Attic              WS, K=5.6, Vertical Window
+ CENTRAL                                                    CENTRAL
+
+
+
+
+                           HORIZONTAL
+                            SIDEWALL
+                           DEFLECTOR                          PENDENT
+                                                             DEFLECTOR              The presence of a weep
+                                                                                    hole in the "cap" identifies
+                                                                                    this sprinkler as a "dry
+                                                                                    type".
+
+
+
+
+                         "WS"
+
+ Figure 50                                                  Figure 51
+ WS, K=5.6, Horizontal Window                               A-1, K=5.6, Dry Pendent & Dry Concealed
+ CENTRAL                                                    CENTRAL
+
+
+                                                   – 22 –
+                                    PENDENT                                                     PENDENT
+                                   DEFLECTOR                                                   DEFLECTOR
+
+
+                                                                                                                         "QR"
+
+
+
+
+                                    HORIZONTAL                                                  HORIZONTAL
+                                     SIDEWALL    "GB"                                            SIDEWALL     "QR"    "GB"
+                                    DEFLECTOR                                                   DEFLECTOR
+
+
+
+
+The presence of a weep hole
+                                                              The presence of a weep hole
+  in the “cap” identifies this
+                                                                in the “cap” identifies this
+   sprinkler as a “dry type”.
+                                                                 sprinkler as a “dry type”.
+
+
+
+
+  Figure 52                                                      Figure 53
+  GB, K=5.6, Dry Pendent & Hor. Sidewall                         GBQR, K=5.6, Dry Pendent & Hor. Sidewall
+  CENTRAL                                                        CENTRAL
+
+  The presence of a weep hole
+    in the “cap” identifies this          PENDENT
+     sprinkler as a “dry type”.                                                   PENDENT
+                                         DEFLECTOR                "CSC"          DEFLECTOR                    "CSC"
+
+
+
+                                                                      "GB4"                                     "GB4-EC"
+
+
+
+
+                                                 Figure 54a                              Figure 54b
+
+                                          PENDENT                                 PENDENT
+                                         DEFLECTOR               "CSC"           DEFLECTOR                   "CSC"
+
+                                                                                                             "GB4 QR-EC"
+                                                                   "GB4-FR"
+
+
+
+
+                                                 Figure 54c                              Figure 54d
+
+ Figure 54a, 54b, 54c, 54d
+ GB4 (54a), GB4-EC (54b), GB4-FR (54c), GB4-QREC(54d), K=5.6, DryConcealed Pendent
+ CENTRAL
+
+
+
+                                                        – 23 –
+                                                                                   PENDENT
+                                            PENDENT                               DEFLECTOR                "GB"
+                                           DEFLECTOR                "GB"
+
+
+
+
+                                                                     "ELO-16"                           "ELO-231"
+                                                  Figure 55a                            Figure 55b
+
+                                                                                   PENDENT
+                                            PENDENT          "FR"                 DEFLECTOR                 "GB"
+                                           DEFLECTOR
+
+                                                                           "GB"
+
+
+
+ The presence of a weep hole
+                                                                             "ELO"
+   in the “cap” identifies this
+    sprinkler as a “dry type”.
+                                                                      "ELO-16"                               "QR"
+
+                                                  Figure 55c                            Figure 55d
+
+Figure 55a, 55b, 55c, 55d
+ELO-16 GB (55a), ELO-231 GB (55b), ELO-16 GB FR (55c), ELO-GB QR (55d), K=5.6, DryConcealed Pendent
+CENTRAL
+
+
+                                                                                      The presence of a weep hole
+                                                                                        in the “cap” identifies this
+                                                                                         sprinkler as a “dry type”.
+
+
+
+
+    The presence of a weep hole
+      in the “cap” identifies this
+       sprinkler as a “dry type”.
+
+
+
+
+                                     HORIZONTAL                              PENDENT
+                                      SIDEWALL                              DEFLECTOR
+                                     DEFLECTOR
+
+
+
+
+ Figure 56                                                  Figure 57
+ ELOC, K=5.6, Dry Horizontal                                J, K=5.6, Dry Pendent
+ CENTRAL                                                    CENTRAL
+
+
+                                                   – 24 –
+                               The presence of a weep
+                               hole in the “cap” identifies
+                               these sprinklers as a “dry
+                               type”.
+
+
+                                 COVER PLATE IS
+                                  REMOVED BY
+                                  UNSCREWING
+                               COUNTER-CLOCKWISE
+                                ONE-EIGHTH TURN
+                                AND THEN PULLING
+                                  DOWNWARD
+                                                                                                                     G
+                                                                                                                  "G" IN A
+                                                                                                                 TRIANGLE
+                                               “K”                                                                 LOGO
+
+          PENDENT
+         DEFLECTOR                                                                                                    G
+                                K
+                                                                                                        SSP-13
+
+
+
+
+                                                                                                     “SSP-13"
+
+
+           "CSC"                                                                                           PENDENT
+
+ Figure 58                                                             Figure 59
+ K, K=5.6, Dry Concealed Pendent                                       F927, K=5.6, On-Off Pendent
+ CENTRAL                                                               GEM
+
+
+
+
+                   Two-Digit                                           "ME-1"
+                     Date
+                                                                          Two-Digit
+                            PENDENT                                         Date
+              LENGTH                                                                                                             LENGTH
+                                                 LENGTH                               UPRIGHT                                    VARIES
+              VARIES                             VARIES
+
+
+
+
+"ME-1"                                                                                                       "ME-1"
+
+
+
+
+                                                                                HORIZONTAL                                     VERTICAL
+                   LENGTH                                 Two-Digit                                                            SIDEWALL
+                                                                                SIDEWALL
+                   VARIES                                   Date                DEFLECTOR
+                                                                                                                              DEFLECTOR
+
+
+
+
+                               "ME-1"
+                                                                                                                             Two-Digit
+                                                                                                                               Date
+                                                      The presence of a weep hole in the “cap”
+                                                      identifies these sprinklers as a “dry type”.
+Figure 60
+ME-1 Dry, K=5.6, Pendent, Upright, Horizontal Sidewall, and Vertical Sidewall Dry Type Sprinklers
+STAR
+
+
+                                                              – 25 –
+                                                                        WEEP HOLE
+                                                                          IN CAP
+
+
+
+
+                    STAR LOGO
+                                                                                STAR LOGO
+                             PENDENT
+               LENGTH                              LENGTH                                   UPRIGHT
+               VARIES                              VARIES
+
+
+
+
+                                                                                                        The presence of a weep
+                                                                                                        hole in the "cap" identifies
+                                                                                                        this sprinkler as a "dry
+WEEP HOLE
+                                                                                                        type".
+  IN CAP
+
+
+
+
+                                                                               HORIZONTAL
+                                                                                SIDEWALL
+                   LENGTH                                                      DEFLECTOR
+                   VARIES
+
+
+
+
+                                         WEEP HOLE
+                                           IN CAP
+
+
+
+
+Figure 61
+SG Dry - Standard Response, K=5.6, Pendent, Upright, and Horizontal Sidewall Dry Type Sprinklers
+STAR
+
+                                            "QR"
+                                                                                                                           "QR"
+                                                                                    WEEP HOLE
+                                                                                      IN CAP
+
+
+
+
+                        STAR LOGO
+                                                                                            STAR LOGO
+
+               LENGTH
+                               PENDENT                                                                   UPRIGHT
+                                                               LENGTH
+               VARIES                                          VARIES
+
+
+
+
+                                                                                                            The presence of a weep
+                                                                                                            hole in the "cap" identifies
+                                                                                                            this sprinkler as a "dry
+WEEP HOLE
+  IN CAP
+                                                                                                            type".
+
+
+
+
+                    LENGTH                                                     HORIZONTAL
+                    VARIES                                                      SIDEWALL
+                                                            "QR"   STAR LOGO   DEFLECTOR
+
+
+
+                                                                   QR
+
+
+                                         WEEP HOLE
+                                           IN CAP
+
+
+
+
+Figure 62
+SG Dry - Quick Response, K=5.6, Pendent, Upright, and Horizontal Sidewall Dry Type Sprinklers
+STAR
+
+                                                        – 26 –
+                                PENDENT            STAR LOGO                                                        STAR LOGO
+                                                                                                   PENDENT
+                               DEFLECTOR
+                                                                                                  DEFLECTOR
+
+
+
+
+                                                                                                                           "QR-Q"
+
+
+
+
+                                       COVER PLATE IS                                                    COVER PLATE IS
+                                     REMOVED BY PULLING                                                REMOVED BY PULLING
+                      LENGTH                                                             LENGTH
+                                        DOWNWARD                                                          DOWNWARD
+                      VARIES                                                             VARIES
+
+
+
+
+ WEEP                                                               WEEP
+ HOLE                                                               HOLE
+IN CAP                                                             IN CAP
+                               The presence of a weep                                              The presence of a weep
+                               hole in the "cap" identifies                                        hole in the "cap" identifies
+                               this sprinkler as a "dry                                            this sprinkler as a "dry
+                               type".                                                              type".
+
+
+
+
+   Figure 63                                                           Figure 64
+   Q, K=5.6, Dry Pendent Concealed                                     Q-QR, K=5.6, Dry Pendent Concealed
+   STAR                                                                STAR
+
+
+
+
+                                                              – 27 –
+

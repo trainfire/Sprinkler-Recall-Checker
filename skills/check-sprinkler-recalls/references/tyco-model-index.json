@@ -1,0 +1,1938 @@
+{
+  "source": "Existing bundled Tyco Identification Brochure, Tables A-F, physical PDF pages 7-8; seal styles page 9. Visually verified 2026-10-13.",
+  "source_file": "../assets/tyco-identification-guide.pdf",
+  "source_sha256": "55f9bec2ecdc6773cd3cddad8d6dbb4937c03b806fc6b05bfeb2014a29dd3842",
+  "notes": [
+    "This index is an identification aid, not an independent recall notice.",
+    "Use original PDF if text or mapping conflicts. Same model can occur in multiple tables and variants.",
+    "NO* means no O-ring to Belleville design change, not no recall.",
+    "For Tables A-C: 1997 and earlier or NO* rows have O-ring construction; 1998 and later Yes rows require matching seal style.",
+    "Do not extend wet transition rules to dry or Gem/Star.",
+    "Part descriptions and replacement SINs are not legacy sprinkler SINs."
+  ],
+  "seal_styles": {
+    "A": {
+      "o_ring": "Flat cap",
+      "belleville": "Conical cap"
+    },
+    "B": {
+      "o_ring": "Flat cap essentially flush",
+      "belleville": "Raised edge cap"
+    },
+    "C": {
+      "o_ring": "Flat cap essentially flush",
+      "belleville": "Raised flat cap"
+    },
+    "D": {
+      "o_ring": "Stepped cap",
+      "belleville": "Raised flat cap"
+    },
+    "E": {
+      "o_ring": "Stepped cap",
+      "belleville": "Raised flat cap"
+    },
+    "F": {
+      "o_ring": "Coil spring",
+      "belleville": "No spring"
+    }
+  },
+  "rows": [
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELOC",
+      "k_factor": 11.2,
+      "orientation": "Concealed pendent",
+      "figure": "01",
+      "element": "Solder link",
+      "table_page": 7,
+      "seal_style": [
+        "F"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        10
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO GB",
+      "k_factor": 11.2,
+      "orientation": "Pendent and upright",
+      "figure": "02",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        10
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO GB QR",
+      "k_factor": 11.2,
+      "orientation": "Pendent and upright",
+      "figure": "03",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        10
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO-LH",
+      "k_factor": 11.2,
+      "orientation": "Pendent",
+      "figure": "04",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        11
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO SW20",
+      "k_factor": 11.2,
+      "orientation": "Horizontal sidewall",
+      "figure": "05",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "B"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        11
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO SW24",
+      "k_factor": 11.2,
+      "orientation": "Horizontal sidewall",
+      "figure": "06",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "B"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        11
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO-16 GB",
+      "k_factor": 11.2,
+      "orientation": "Pendent and upright",
+      "figure": "07",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        11
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO-16 GB FR",
+      "k_factor": 11.2,
+      "orientation": "Pendent and upright",
+      "figure": "08",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        12
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          11
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO-231 GB",
+      "k_factor": 11.2,
+      "orientation": "Pendent and upright",
+      "figure": "09",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "D",
+        "E"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        12
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          11
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO-231 GB QR",
+      "k_factor": 11.2,
+      "orientation": "Pendent and upright",
+      "figure": "10",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "D",
+        "E"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        12
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          11
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ESLO",
+      "k_factor": 14.0,
+      "orientation": "Pendent and upright",
+      "figure": "11",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        12
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          11
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ESLO-20 GB",
+      "k_factor": 14.0,
+      "orientation": "Pendent and upright",
+      "figure": "12",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        13
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          12
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB",
+      "k_factor": 5.6,
+      "orientation": "Pendent and upright",
+      "figure": "13",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        13
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          12
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB",
+      "k_factor": 5.6,
+      "orientation": "Horizontal sidewall",
+      "figure": "14",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        13
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          12
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB Multi Level",
+      "k_factor": 5.6,
+      "orientation": "Upright",
+      "figure": "15",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        13
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          12
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-ALPHA",
+      "k_factor": 5.6,
+      "orientation": "Pendent",
+      "figure": "16",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        14
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          13
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-EC",
+      "k_factor": 5.6,
+      "orientation": "Pendent",
+      "figure": "17",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        14
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          13
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-EC",
+      "k_factor": 5.6,
+      "orientation": "Horizontal sidewall",
+      "figure": "18",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        14
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          13
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-J",
+      "k_factor": 5.6,
+      "orientation": "Pendent and upright",
+      "figure": "19",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        14
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          13
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-LO",
+      "k_factor": 8.0,
+      "orientation": "Horizontal sidewall",
+      "figure": "20",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        15
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          14
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-QR",
+      "k_factor": 4.2,
+      "orientation": "Pendent and upright",
+      "figure": "21",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        15
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          14
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-QR",
+      "k_factor": 5.6,
+      "orientation": "Pendent and upright",
+      "figure": "22",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        15
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          14
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-QR",
+      "k_factor": 5.6,
+      "orientation": "Horizontal sidewall",
+      "figure": "23",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        15
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          14
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-QR Multi Level",
+      "k_factor": 5.6,
+      "orientation": "Upright",
+      "figure": "24",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        16
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          15
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-1",
+      "k_factor": 5.6,
+      "orientation": "Pendent and upright",
+      "figure": "25",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        16
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          15
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB4",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "26",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "C"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        16
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          15
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB4-EC",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "27",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "C"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        16
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          15
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB4-FR",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "28",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "C"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        17
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          16
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB4QREC",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "29",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "C"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        17
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          16
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB20",
+      "k_factor": 8.0,
+      "orientation": "Pendent",
+      "figure": "30",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        17
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          16
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "GB20-QR",
+      "k_factor": 8.0,
+      "orientation": "Pendent",
+      "figure": "31",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "B"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        17
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          16
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "K17-231",
+      "k_factor": 16.8,
+      "orientation": "Pendent and upright",
+      "figure": "32",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "C"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        18
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          17
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "LD",
+      "k_factor": 11.2,
+      "orientation": "Upright",
+      "figure": "33",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "B"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        18
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          17
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "A",
+      "manufacturer": "Central",
+      "model_as_printed": "ULTRA K17",
+      "k_factor": 16.8,
+      "orientation": "Upright",
+      "figure": "34",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "C"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        18
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Comm.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          17
+        ],
+        "capture": "20221129001527"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "GBR",
+      "k_factor": 4.3,
+      "orientation": "Pendent",
+      "figure": "35",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        18
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "GBR",
+      "k_factor": 4.3,
+      "orientation": "Concealed pendent",
+      "figure": "36",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        19
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "GBR",
+      "k_factor": 5.4,
+      "orientation": "Horizontal sidewall",
+      "figure": "37",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        19
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-R",
+      "k_factor": 5.4,
+      "orientation": "Horizontal sidewall",
+      "figure": "38",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        19
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-R1",
+      "k_factor": 5.3,
+      "orientation": "Pendent",
+      "figure": "39",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        19
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "GBR-2",
+      "k_factor": 4.3,
+      "orientation": "Pendent",
+      "figure": "40",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        20
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "GB-RS",
+      "k_factor": 4.3,
+      "orientation": "Pendent",
+      "figure": "41",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        20
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "LF",
+      "k_factor": 3.0,
+      "orientation": "Pendent",
+      "figure": "42",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "C"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        20
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "LF",
+      "k_factor": 3.5,
+      "orientation": "Horizontal sidewall",
+      "figure": "43",
+      "element": "Glass bulb",
+      "table_page": 7,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        20
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          11
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "B",
+      "manufacturer": "Central",
+      "model_as_printed": "ROC",
+      "k_factor": 4.2,
+      "orientation": "Concealed pendent",
+      "figure": "44",
+      "element": "Solder link",
+      "table_page": 7,
+      "seal_style": [
+        "F"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        21
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Residental.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          11
+        ],
+        "capture": "20230927040720"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "BB1",
+      "k_factor": 5.6,
+      "orientation": "Attic",
+      "figure": "45A",
+      "element": "Solder link",
+      "table_page": 8,
+      "seal_style": [
+        "F"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        21
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "BB2",
+      "k_factor": 5.6,
+      "orientation": "Attic",
+      "figure": "45B",
+      "element": "Solder link",
+      "table_page": 8,
+      "seal_style": [
+        "F"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        21
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "BB3",
+      "k_factor": 5.6,
+      "orientation": "Attic",
+      "figure": "45C",
+      "element": "Solder link",
+      "table_page": 8,
+      "seal_style": [
+        "F"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        21
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "BB1 17/32",
+      "k_factor": 8.0,
+      "orientation": "Attic",
+      "figure": "46A",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": [
+        "B"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        21
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "BB2 17/32",
+      "k_factor": 8.0,
+      "orientation": "Attic",
+      "figure": "46B",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": [
+        "B"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        21
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "BB3 17/32",
+      "k_factor": 8.0,
+      "orientation": "Attic",
+      "figure": "46C",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": [
+        "B"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        21
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "HIP",
+      "k_factor": 5.6,
+      "orientation": "Attic",
+      "figure": "47",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        21
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "SD1",
+      "k_factor": 5.6,
+      "orientation": "Attic",
+      "figure": "48A",
+      "element": "Solder link",
+      "table_page": 8,
+      "seal_style": [
+        "F"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        22
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "SD2",
+      "k_factor": 5.6,
+      "orientation": "Attic",
+      "figure": "48B",
+      "element": "Solder link",
+      "table_page": 8,
+      "seal_style": [
+        "F"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        22
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "SD3",
+      "k_factor": 5.6,
+      "orientation": "Attic",
+      "figure": "48C",
+      "element": "Solder link",
+      "table_page": 8,
+      "seal_style": [
+        "F"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        22
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "WS",
+      "k_factor": 5.6,
+      "orientation": "Window vertical",
+      "figure": "49",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        22
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "C",
+      "manufacturer": "Central",
+      "model_as_printed": "WS",
+      "k_factor": 5.6,
+      "orientation": "Window horizontal",
+      "figure": "50",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": [
+        "A"
+      ],
+      "seal_transition": true,
+      "figure_pages": [
+        22
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_SplPurp.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927061512"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "A-1",
+      "k_factor": 5.6,
+      "orientation": "Pendent and concealed pendent",
+      "figure": "51",
+      "element": "Solder strut",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        22
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "GB",
+      "k_factor": 5.6,
+      "orientation": "Pendent and horizontal sidewall",
+      "figure": "52",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        23
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "GB QR",
+      "k_factor": 5.6,
+      "orientation": "Pendent and horizontal sidewall",
+      "figure": "53",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        23
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "GB4",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "54A",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        23
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "GB4-EC",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "54B",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        23
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "GB4-FR",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "54C",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        23
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "GB4-QREC",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "54D",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        23
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO-16 GB",
+      "k_factor": 11.2,
+      "orientation": "Pendent",
+      "figure": "55A",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        24
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO-231 GB",
+      "k_factor": 11.2,
+      "orientation": "Pendent",
+      "figure": "55B",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        24
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO-16 GB FR",
+      "k_factor": 11.2,
+      "orientation": "Pendent",
+      "figure": "55C",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        24
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "ELO-GB QR",
+      "k_factor": 11.2,
+      "orientation": "Pendent",
+      "figure": "55D",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        24
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "H-1",
+      "k_factor": 5.6,
+      "orientation": "Horizontal sidewall",
+      "figure": "56",
+      "element": "Solder strut",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        24
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          11
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "J",
+      "k_factor": 5.6,
+      "orientation": "Pendent",
+      "figure": "57",
+      "element": "Solder strut",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        24
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          11
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "D",
+      "manufacturer": "Central",
+      "model_as_printed": "K",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "58",
+      "element": "Solder strut",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        25
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Cent_Dry.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          11
+        ],
+        "capture": "20230927050513"
+      }
+    },
+    {
+      "table": "E",
+      "manufacturer": "Gem / Star table heading; verify primary scope",
+      "model_as_printed": "F927",
+      "k_factor": 5.6,
+      "orientation": "Pendent on-off",
+      "figure": "59",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        25
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Gem_OnOff.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          7
+        ],
+        "capture": "20230927061244"
+      },
+      "illustrated_markings": {
+        "body": "F927",
+        "deflector": [
+          "G in triangle",
+          "SSP-13"
+        ],
+        "source_page": 25,
+        "limit": "These markings are illustrated for this variant; SSP-13 alone does not establish F927 or recall scope."
+      }
+    },
+    {
+      "table": "F",
+      "manufacturer": "Star",
+      "model_as_printed": "ME-1 Dry",
+      "k_factor": 5.6,
+      "orientation": "Pendent, upright, horizontal and vertical sidewall",
+      "figure": "60",
+      "element": "Solder strut",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        25
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Star.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927062447"
+      },
+      "illustrated_markings": {
+        "body": "ME-1",
+        "deflector": [
+          "Star name",
+          "two-digit manufacture date shown in diagram"
+        ],
+        "source_page": 25,
+        "limit": "Confirm date convention and year-range notice; orientation words are not model numbers."
+      }
+    },
+    {
+      "table": "F",
+      "manufacturer": "Star",
+      "model_as_printed": "SG Dry",
+      "k_factor": 5.6,
+      "orientation": "Pendent, upright and horizontal sidewall",
+      "figure": "61",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        26
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Star.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          9
+        ],
+        "capture": "20230927062447"
+      },
+      "illustrated_markings": {
+        "deflector": [
+          "Star logo",
+          "SG shown on upright drawing"
+        ],
+        "source_page": 26,
+        "limit": "Verify dry construction; the lack of QR in a partial photo is not proof of standard response."
+      }
+    },
+    {
+      "table": "F",
+      "manufacturer": "Star",
+      "model_as_printed": "SG (QR) Dry",
+      "k_factor": 5.6,
+      "orientation": "Pendent, upright and horizontal sidewall",
+      "figure": "62",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        26
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Star.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927062447"
+      },
+      "illustrated_markings": {
+        "deflector": [
+          "Star logo",
+          "QR",
+          "SG shown on upright drawing"
+        ],
+        "source_page": 26,
+        "limit": "QR is a response identifier, not a SIN or date; verify exact dry variant."
+      }
+    },
+    {
+      "table": "F",
+      "manufacturer": "Star",
+      "model_as_printed": "Q Dry",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "63",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        27
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Star.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927062447"
+      },
+      "illustrated_markings": {
+        "deflector": [
+          "Star logo",
+          "SSP"
+        ],
+        "source_page": 27,
+        "limit": "SSP is not sufficient by itself to establish model Q."
+      }
+    },
+    {
+      "table": "F",
+      "manufacturer": "Star",
+      "model_as_printed": "QR-Q Dry",
+      "k_factor": 5.6,
+      "orientation": "Concealed pendent",
+      "figure": "64",
+      "element": "Glass bulb",
+      "table_page": 8,
+      "seal_style": null,
+      "seal_transition": false,
+      "figure_pages": [
+        27
+      ],
+      "archived_category_reference": {
+        "download_name": "Bro_Star.pdf",
+        "table_page": 7,
+        "figure_pages": [
+          10
+        ],
+        "capture": "20230927062447"
+      },
+      "illustrated_markings": {
+        "deflector": [
+          "Star logo",
+          "QR-Q",
+          "SSP"
+        ],
+        "source_page": 27,
+        "limit": "Q-QR in the figure caption and QR-Q in the deflector inscription must be resolved by the specific drawing, not global fuzzy matching."
+      }
+    }
+  ],
+  "alternate_reference": {
+    "user_uploaded_filename": "Brochure.pdf",
+    "metadata_creation_date": "2001-07-13",
+    "uploaded_sha256": "a4d329ad4de96953728cc1db2ca3f7edf3c49af7c487449d63736121e61fcd3e",
+    "comparison_date": "2026-10-13",
+    "equivalence": "All extracted text identical and all 27 rendered pages pixel-identical at scale-to 600 to canonical bundled guide. Binary file hashes differ.",
+    "canonical_source_file": "../assets/tyco-identification-guide.pdf",
+    "archive_notes": "archived-sprinklerreplacement.md"
+  }
+}

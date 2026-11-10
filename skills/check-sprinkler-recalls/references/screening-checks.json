@@ -1,0 +1,206 @@
+{
+ "purpose": "Review scenarios for skill/data boundaries; not an executable image recognition test.",
+ "review_date": "2026-10-18",
+ "cases": [
+  {
+   "input": "Central GB wet 1997, exact variant established",
+   "expected": "Apply Tables A-C pre-1998 O-ring rule within recall scope; establish historical recall match, use focused current context check."
+  },
+  {
+   "input": "Central GB wet 1999, seal hidden",
+   "expected": "Potential recall match; Style A cap evidence required; no date-only clearance."
+  },
+  {
+   "input": "Central ELO GB wet 1999, table row NO*",
+   "expected": "NO* means no seal design change; does not exclude recall."
+  },
+  {
+   "input": "Central GB dry",
+   "expected": "Use Table D; do not apply wet 1998 transition or wet Style A blindly."
+  },
+  {
+   "input": "Central LF pendent K=3.0 vs HSW K=3.5",
+   "expected": "Different style mappings C and A; resolve variant before seal comparison."
+  },
+  {
+   "input": "Star ME-1 dry 1976",
+   "expected": "Mealane recall 99-152, not AHI or SCM."
+  },
+  {
+   "input": "Star ME-1 dry 1977",
+   "expected": "AHI recall 03-116 confirmed when Star, ME-1, dry and 1977 are established (full CPSC page opened 2026-10-14)."
+  },
+  {
+   "input": "Star ME-1 dry 1982",
+   "expected": "AHI recall 03-116; do not shift to SCM."
+  },
+  {
+   "input": "Star ME-1 dry 1983 or 1995",
+   "expected": "Replacement warning confirmed, SCM 03-117; no free-remedy promise."
+  },
+  {
+   "input": "Star ME-1 dry 1996 or 1998",
+   "expected": "Central 01-201; program closed but affected head still needs replacement."
+  },
+  {
+   "input": "Star ME-1 date unreadable",
+   "expected": "Potential recall/warning; exact notice unresolved, request date evidence."
+  },
+  {
+   "input": "Star on wet piping",
+   "expected": "Piping alone does not prove wet-type head or exclude dry recall."
+  },
+  {
+   "input": "Globe J dry 1990 or 1999",
+   "expected": "07-209 covered; 2011 deadline recorded; no current $9 offer promised."
+  },
+  {
+   "input": "Globe JN on historical O-ring list",
+   "expected": "Not an alias of recalled J dry; current CPSC/manufacturer search before any negative result."
+  },
+  {
+   "input": "Omega three discs only",
+   "expected": "Candidate cue only; verify exact affected identity."
+  },
+  {
+   "input": "Star F927 or unknown modern SIN",
+   "expected": "Resolve exact manufacturer/scope with literature and targeted web research; no automatic broad brand match."
+  },
+  {
+   "input": "Old recalled spare with no verified installed correspondence",
+   "expected": "Screen spare only; no building-wide conclusion."
+  },
+  {
+   "input": "Register lookup finds no record; web inaccessible",
+   "expected": "Unable to determine; never negative clearance."
+  },
+  {
+   "input": "Confirmed old match; current source inaccessible",
+   "expected": "Dated positive only if opened-primary saved evidence supports all criteria; disclose unverified current context/remedy."
+  },
+  {
+   "input": "Owner requests code-compliance conclusion from association article",
+   "expected": "Obtain adopted NFPA 25 edition and system facts; awareness text alone does not establish code duty."
+  },
+  {
+   "input": "Blue bulb liquid in a recalled-family photo",
+   "expected": "Could represent 250 or 286 F in the historical brochure; no single rating, date or recall inference."
+  },
+  {
+   "input": "Archive downloaded in 2023, brochure says free replacements",
+   "expected": "Archive capture is not manufacture/notice date; historical program closed in 2007."
+  },
+  {
+   "input": "Gem deflector SSP-13 without clear body model or construction",
+   "expected": "F927 drawing is a candidate lead; not a standalone model or recall confirmation."
+  },
+  {
+   "input": "Category brochure omits another family/model or refers to page 9 that is not present",
+   "expected": "Use source-specific physical page/figure mapping and complete guide; omission is not recall clearance."
+  },
+  {
+   "input": "Page 3 Figure F vs page 9 Style F",
+   "expected": "Different letter systems: component seal section vs model-specific cap/spring comparison."
+  },
+  {
+   "input": "Blurred mark believed to be a weep hole",
+   "expected": "Unresolved construction; no probing or definitive dry/O-ring conclusion."
+  },
+  {
+   "input": "Globe ESFR-14 GL1401 wet pendent, year 2000, heavy verdigris at the seal seat",
+   "expected": "No matching recall found only after the quick CPSC + Victaulic check (without web: Unable to determine). Either way add the Risk flag: O-ring construction on 2009 list with corrosion at the seal area; same failure mechanism as O-ring recalls; professional evaluation; do not reinstall."
+  },
+  {
+   "input": "O-ring-listed SIN, clean, no visible corrosion",
+   "expected": "Bounded no-match result after the quick check (without web: Unable to determine), with a one-line O-ring construction note; no risk flag."
+  },
+  {
+   "input": "Photo attachment cannot be opened",
+   "expected": "Unable to determine; say the photo could not be opened; ask to resend; no lookups or searches."
+  },
+  {
+   "input": "STAR frame logo only, model and year unreadable, dry-style collar",
+   "expected": "Potential recall/warning match naming the Star dry notices; request model and two-digit year."
+  },
+  {
+   "input": "Mirror-reversed frame stamp",
+   "expected": "Flip and transcribe, state the image appeared mirrored."
+  },
+  {
+   "input": "Positive Central GB 1996 match from bundled register, no web access",
+   "expected": "Recall match confirmed from bundled references with date; no browsing required; current remedy not re-verified."
+  },
+  {
+   "input": "Tyco TY3151 upright, clean, U.S. distributor records, no unusual markings",
+   "expected": "Designation appears in several alerts, but no cue, provenance detail or concern: no Alert line. Recall result per normal workflow."
+  },
+  {
+   "input": "TY5151 upright from a Bangladesh project; deflector shows a K-factor and 155°F/93°C",
+   "expected": "Alert: suspect counterfeit features (UL 24PN-50, FM NoC 1142). Result line unaffected. Next: professional evaluation, report to UL/FM and Tyco, keep purchase records."
+  },
+  {
+   "input": "Unit marked Viking on top and HD in an oval on the side",
+   "expected": "Alert: suspect counterfeit features (UL 24PN-43); two brands on one unit. Authentic Viking and HD units are excluded."
+  },
+  {
+   "input": "GLOBE-marked pendent, 2019 on deflector, Job F5 bulb, no model designation",
+   "expected": "Alert: counterfeit alert lead (UL 20PN-01); only supporting cues (GLOBE with no model designation). Do not invent a model."
+  },
+  {
+   "input": "GL5651 marked GLOBE with year 2024",
+   "expected": "Alert: suspect counterfeit features from the FM NoC 1164 date rule (GL5651 dated 2022 or later marked GLOBE). Cite UL 24PN-0056 as well only if the seller is Fujian Guangbo or its date-code cue is seen."
+  },
+  {
+   "input": "User offers to unscrew an installed head to compare its button and seal with a UL alert",
+   "expected": "Decline. Ask for external close-ups, records or a verified spare; internal cues are removed-unit only."
+  },
+  {
+   "input": "Chrome-finish TY5151, nothing else unusual",
+   "expected": "No Alert line; chrome is a stated non-discriminator."
+  },
+  {
+   "input": "User shares an FM Certificate of Compliance listing Victaulic V2723 and V2703",
+   "expected": "Certificate alert (FM, December 1, 2022). Not resolvable from a sprinkler photo; route to the FM Approval Guide and FM Approvals. Not a Victaulic recall."
+  },
+  {
+   "input": "ANGUS deflector reading 15SSP with 2016 on the wrench boss",
+   "expected": "UL 19PN-15 publishes markings only, no authentic comparison: no Alert line on markings alone; Alert lead if a provenance detail or the user's concern applies. Keep 15SSP and 15SSSP literally."
+  },
+  {
+   "input": "User says the SIN appears in UL Product iQ, so the head must be genuine",
+   "expected": "A database listing confirms the model exists; it does not authenticate the physical unit."
+  },
+  {
+   "input": "FM product-alert directory returns no text in the reader",
+   "expected": "Not clearance. Use the bundled alerts and individual alert links."
+  },
+  {
+   "input": "Reliable 8-inch DDX valve advisory raised for a sprinkler head",
+   "expected": "Valve advisory, not a sprinkler-head notice; no recall or alert match."
+  },
+  {
+   "input": "Brand-only input TYCO with no readable SIN",
+   "expected": "Lookup gives a brand count only; not evidence. Request the SIN and bulb close-up."
+  },
+  {
+   "input": "Alert source link will not open during comparison",
+   "expected": "Report the alert from bundled cues and say the images were not compared; do not upgrade or clear."
+  },
+  {
+   "input": "FM-marked sprinkler with a Job F5 bulb; no other cue",
+   "expected": "Alert lead from the FM Job F5 statement (dated 2011-2018). Suspect if the model is one FM names as using Job G5 (Tyco TY3151/TY3251, Globe GL5651/GL5661/GL5653, Viking VK100); for those models the same applies without an FM mark. Other models without an FM mark get no Alert line on this basis."
+  },
+  {
+   "input": "Concealed pendent; user asks whether to pull the cover plate to check plating",
+   "expected": "Do not remove the cover plate. Ask for records or a verified spare (FM 2018 Globe concealed alert)."
+  },
+  {
+   "input": "GL5651 dated 2024 and marked GLOBE, with corrosion at the seal seat",
+   "expected": "Result from the recall workflow (no GL5651 recall in the register). Separate Alert line: suspect counterfeit features from the FM NoC 1164 date rule. Condition note for corrosion. No Risk flag: an alert's O-ring statement does not establish O-ring construction for this unit."
+  },
+  {
+   "input": "TY7226 pendent dated 2017 with TY7226 ESFR 165°F 74°C on the deflector, no other cue, U.S. job",
+   "expected": "UL 19PN-25 markings alone give no Alert line. Compare the photos with the external cues of fm-ty7226-philippines-2019 and fm-ty7226-brazil-2023, which the lookup also returns; no Alert line if none are seen."
+  }
+ ]
+}

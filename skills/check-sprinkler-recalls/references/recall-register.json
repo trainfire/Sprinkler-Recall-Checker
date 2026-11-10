@@ -1,0 +1,413 @@
+{
+  "scope": "U.S. researched recall and warning register; not exhaustive; bundled facts do not certify current remedy availability",
+  "as_of": "2026-10-14",
+  "records": [
+    {
+      "id": "central-wet",
+      "manufacturer": "Central",
+      "models": [
+        "GB",
+        "GB4-FR",
+        "GB-R1",
+        "BB2",
+        "ELOC",
+        "ELO-GB QR",
+        "GB-J",
+        "GB4-EC",
+        "GB-RS",
+        "BB3",
+        "ESLO",
+        "LD",
+        "GB-1",
+        "GB4-QREC",
+        "GB-R",
+        "SD1",
+        "ELO SW-20",
+        "K17-231",
+        "GB-ALPHA",
+        "GB-20",
+        "ROC",
+        "SD2",
+        "ELO SW-24",
+        "Ultra K17",
+        "GB4",
+        "GB-20 QR",
+        "BB1 17/32",
+        "SD3",
+        "ESLO-20 GB",
+        "ELO-16 GB",
+        "GB-QR",
+        "GB-LO",
+        "BB2 17/32",
+        "HIP",
+        "ELO-231 GB",
+        "GB MULTI-LEVEL",
+        "GBR-2",
+        "LF",
+        "BB3 17/32",
+        "WS",
+        "ELO-GB",
+        "GB-QR MULTI-LEVEL",
+        "GB-EC",
+        "GBR",
+        "BB1",
+        "ELO-LH",
+        "ELO-231 GBQR",
+        "ELO-16 GB FR"
+      ],
+      "construction": "wet-type O-ring",
+      "manufacture_scope": "1989-2000",
+      "notice_type": "recall",
+      "notice_number": "01-201",
+      "source_url": "https://www.cpsc.gov/Recalls/2001/cpsc-central-sprinkler-company-announce-voluntary-recall-to-replace-o-ring-fire",
+      "required_evidence": "Match manufacturer/model and O-ring configuration; use Tyco tables for variants.",
+      "notes": "CPSC lists 48 wet models. Use all applicable Tyco table rows; models dated 1998 or later with a Yes row require a model-specific seal-cap check. NO* means no seal design transition, not exclusion. Dates in the CPSC table are screening scope; reconcile any broader guide/date discrepancy rather than giving clearance.",
+      "last_reviewed": "2026-10-13",
+      "notice_date": "2001-07-19",
+      "source_retrieval": "full CPSC page opened 2026-10-13",
+      "program_end_date": "2007-08-31",
+      "program_status": "Replacement program ended; affected installed sprinklers still require replacement.",
+      "hazard": "Degradation, corrosion or water contaminants can prevent O-ring sprinklers activating.",
+      "notice_digest": "notice-summaries.md#central-o-ring-program",
+      "identification_index": "tyco-model-index.json",
+      "related_notices": [
+        {
+          "number": "03-133",
+          "date": "2003-05-28",
+          "type": "program modification",
+          "url": "https://www.cpsc.gov/Recalls/2003/CPSC-Central-Sprinkler-Company-Update-Voluntary-Recall-To-Replace-O-Ring-Fire-Sprinklers"
+        },
+        {
+          "number": "07-169",
+          "date": "2007-05-01",
+          "type": "claim deadline notice",
+          "url": "https://www.cpsc.gov/Newsroom/News-Releases/2007/August-Deadline-Set-for-End-to-Central-Sprinkler-O-Ring-Sprinkler-RecallProperty-Owners-Should-Act-Now-To-Request-Replacement-of-Sprinkler-Heads"
+        },
+        {
+          "number": "26-800",
+          "date": "2026-09-24",
+          "type": "renewed replacement warning; same recalled population",
+          "url": "https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-and-Tyco-Fire-Products-LP-Urge-Immediate-Action-on-Recalled-Fire-Sprinklers-that-Can-Fail-in-a-Fire"
+        }
+      ],
+      "current_manufacturer_contact_as_of": "2026-10-13",
+      "current_manufacturer_contact": "Central-Sprinkler-O-Ring-Notice@jci.com"
+    },
+    {
+      "id": "central-dry",
+      "manufacturer": "Central",
+      "models": [
+        "A-1",
+        "H-1",
+        "J",
+        "K",
+        "GB",
+        "GB-QR",
+        "GB4",
+        "GB4-FR",
+        "GB4-EC",
+        "GB4-QREC",
+        "ELO-231 GB",
+        "ELO-GB QR",
+        "ELO-16 GB",
+        "ELO-16 GB FR"
+      ],
+      "construction": "dry-type O-ring",
+      "manufacture_scope": "mid-1970s through June 2001",
+      "notice_type": "recall",
+      "notice_number": "01-201",
+      "source_url": "https://www.cpsc.gov/Recalls/2001/cpsc-central-sprinkler-company-announce-voluntary-recall-to-replace-o-ring-fire",
+      "required_evidence": "Verify exact dry variant and affected O-ring construction against Table D.",
+      "notes": "Do not infer dry type from system type alone.",
+      "last_reviewed": "2026-10-13",
+      "notice_date": "2001-07-19",
+      "source_retrieval": "full CPSC page opened 2026-10-13",
+      "program_end_date": "2007-08-31",
+      "program_status": "Replacement program ended; affected installed sprinklers still require replacement.",
+      "hazard": "Degradation, corrosion or water contaminants can prevent O-ring sprinklers activating.",
+      "notice_digest": "notice-summaries.md#central-o-ring-program",
+      "identification_index": "tyco-model-index.json",
+      "related_notices": [
+        {
+          "number": "03-133",
+          "date": "2003-05-28",
+          "type": "program modification",
+          "url": "https://www.cpsc.gov/Recalls/2003/CPSC-Central-Sprinkler-Company-Update-Voluntary-Recall-To-Replace-O-Ring-Fire-Sprinklers"
+        },
+        {
+          "number": "07-169",
+          "date": "2007-05-01",
+          "type": "claim deadline notice",
+          "url": "https://www.cpsc.gov/Newsroom/News-Releases/2007/August-Deadline-Set-for-End-to-Central-Sprinkler-O-Ring-Sprinkler-RecallProperty-Owners-Should-Act-Now-To-Request-Replacement-of-Sprinkler-Heads"
+        },
+        {
+          "number": "26-800",
+          "date": "2026-09-24",
+          "type": "renewed replacement warning; same recalled population",
+          "url": "https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-and-Tyco-Fire-Products-LP-Urge-Immediate-Action-on-Recalled-Fire-Sprinklers-that-Can-Fail-in-a-Fire"
+        }
+      ],
+      "current_manufacturer_contact_as_of": "2026-10-13",
+      "current_manufacturer_contact": "Central-Sprinkler-O-Ring-Notice@jci.com"
+    },
+    {
+      "id": "gem-on-off",
+      "manufacturer": "Gem",
+      "models": [
+        "F927"
+      ],
+      "construction": "wet on-off O-ring",
+      "manufacture_scope": "1995-2001 sold under Gem name",
+      "notice_type": "recall",
+      "notice_number": "01-201",
+      "source_url": "https://www.cpsc.gov/Recalls/2001/cpsc-central-sprinkler-company-announce-voluntary-recall-to-replace-o-ring-fire",
+      "required_evidence": "Gem identity, exact F927/on-off variant and affected seal/date scope.",
+      "notes": "CPSC names Gem F927 sold under the Gem name 1995-2001. Tyco guide Table E is headed Gem and Star; a Star-marked F927 requires manufacturer clarification of recall scope rather than ignoring it or auto-matching it to Star dry models.",
+      "last_reviewed": "2026-10-13",
+      "notice_date": "2001-07-19",
+      "source_retrieval": "full CPSC page opened 2026-10-13",
+      "program_end_date": "2007-08-31",
+      "program_status": "Replacement program ended; affected installed sprinklers still require replacement.",
+      "hazard": "Degradation, corrosion or water contaminants can prevent O-ring sprinklers activating.",
+      "notice_digest": "notice-summaries.md#central-o-ring-program",
+      "identification_index": "tyco-model-index.json",
+      "related_notices": [
+        {
+          "number": "03-133",
+          "date": "2003-05-28",
+          "type": "program modification",
+          "url": "https://www.cpsc.gov/Recalls/2003/CPSC-Central-Sprinkler-Company-Update-Voluntary-Recall-To-Replace-O-Ring-Fire-Sprinklers"
+        },
+        {
+          "number": "07-169",
+          "date": "2007-05-01",
+          "type": "claim deadline notice",
+          "url": "https://www.cpsc.gov/Newsroom/News-Releases/2007/August-Deadline-Set-for-End-to-Central-Sprinkler-O-Ring-Sprinkler-RecallProperty-Owners-Should-Act-Now-To-Request-Replacement-of-Sprinkler-Heads"
+        },
+        {
+          "number": "26-800",
+          "date": "2026-09-24",
+          "type": "renewed replacement warning; same recalled population",
+          "url": "https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-and-Tyco-Fire-Products-LP-Urge-Immediate-Action-on-Recalled-Fire-Sprinklers-that-Can-Fail-in-a-Fire"
+        }
+      ],
+      "current_manufacturer_contact_as_of": "2026-10-13",
+      "current_manufacturer_contact": "Central-Sprinkler-O-Ring-Notice@jci.com"
+    },
+    {
+      "id": "star-central",
+      "manufacturer": "Star",
+      "models": [
+        "ME-1",
+        "SG",
+        "SG-QR",
+        "Q",
+        "Q-QR"
+      ],
+      "construction": "dry-type O-ring",
+      "manufacture_scope": "1996-1998",
+      "notice_type": "recall",
+      "notice_number": "01-201",
+      "source_url": "https://www.cpsc.gov/Recalls/2001/cpsc-central-sprinkler-company-announce-voluntary-recall-to-replace-o-ring-fire",
+      "required_evidence": "Star identity, exact model, dry construction and manufacture year.",
+      "notes": "Brochure uses SG (QR) and QR-Q; check variant rather than fuzzy-name matching.",
+      "last_reviewed": "2026-10-13",
+      "notice_date": "2001-07-19",
+      "source_retrieval": "full CPSC page opened 2026-10-13",
+      "program_end_date": "2007-08-31",
+      "program_status": "Replacement program ended; affected installed sprinklers still require replacement.",
+      "hazard": "Degradation, corrosion or water contaminants can prevent O-ring sprinklers activating.",
+      "notice_digest": "notice-summaries.md#central-o-ring-program",
+      "identification_index": "tyco-model-index.json",
+      "related_notices": [
+        {
+          "number": "03-133",
+          "date": "2003-05-28",
+          "type": "program modification",
+          "url": "https://www.cpsc.gov/Recalls/2003/CPSC-Central-Sprinkler-Company-Update-Voluntary-Recall-To-Replace-O-Ring-Fire-Sprinklers"
+        },
+        {
+          "number": "07-169",
+          "date": "2007-05-01",
+          "type": "claim deadline notice",
+          "url": "https://www.cpsc.gov/Newsroom/News-Releases/2007/August-Deadline-Set-for-End-to-Central-Sprinkler-O-Ring-Sprinkler-RecallProperty-Owners-Should-Act-Now-To-Request-Replacement-of-Sprinkler-Heads"
+        },
+        {
+          "number": "26-800",
+          "date": "2026-09-24",
+          "type": "renewed replacement warning; same recalled population",
+          "url": "https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-and-Tyco-Fire-Products-LP-Urge-Immediate-Action-on-Recalled-Fire-Sprinklers-that-Can-Fail-in-a-Fire"
+        }
+      ],
+      "current_manufacturer_contact_as_of": "2026-10-13",
+      "current_manufacturer_contact": "Central-Sprinkler-O-Ring-Notice@jci.com",
+      "model_aliases": {
+        "SG-QR": [
+          "SG (QR) Dry"
+        ],
+        "Q-QR": [
+          "QR-Q Dry"
+        ],
+        "ME-1": [
+          "ME-1 Dry"
+        ],
+        "SG": [
+          "SG Dry"
+        ],
+        "Q": [
+          "Q Dry"
+        ]
+      }
+    },
+    {
+      "id": "omega",
+      "manufacturer": "Central / Omega",
+      "models": [
+        "C1",
+        "C-1",
+        "C1A",
+        "C-1A",
+        "C-1A PRO",
+        "C1-A PRO",
+        "C1-A PRO QR",
+        "EC-20",
+        "EC-20A",
+        "R-1",
+        "R-1A",
+        "R-1M",
+        "Flow Control",
+        "FC",
+        "Flow Control-FC",
+        "Protector-M",
+        "M Protector",
+        "HEC-12",
+        "EC-12 RES",
+        "HEC-12 EC",
+        "HEC-12 EC PRO",
+        "HEC-12 ID",
+        "HEC-12 PRO",
+        "HEC-12 PRO QR",
+        "HEC-20",
+        "Prohibitor QR",
+        "AC"
+      ],
+      "construction": "Omega affected variants",
+      "manufacture_scope": "manufactured since 1982 per 1998 notice",
+      "notice_type": "recall",
+      "notice_number": "99-008",
+      "source_url": "https://www.cpsc.gov/Recalls/1999/CPSC-Central-Sprinkler-Recall-Omega-Fire-Sprinklers-Settle-Lawsuit",
+      "required_evidence": "Establish Omega manufacturer/product identity and affected model/variant; compare notice photographs.",
+      "notes": "Actual recall date is 1998-10-14 despite /1999/ URL. Stacked discs alone are suggestive. Do not invent an end date.",
+      "last_reviewed": "2026-10-13",
+      "notice_date": "1998-10-14",
+      "units_approx": 8400000,
+      "program_status": "CPSC page states remedy no longer available; qualified replacement remains necessary.",
+      "hazard": "Omega sprinklers may fail to activate in a fire.",
+      "source_retrieval": "Full CPSC HTML retrieved directly 2026-10-13; web reader returned 403.",
+      "notice_digest": "notice-summaries.md#omega"
+    },
+    {
+      "id": "star-mealane",
+      "manufacturer": "Star / Mealane",
+      "models": [
+        "D-1",
+        "RD-1",
+        "RE-1",
+        "E-1",
+        "ME-1"
+      ],
+      "construction": "dry-type",
+      "manufacture_scope": "1961-1976",
+      "notice_type": "recall",
+      "notice_number": "99-152",
+      "source_url": "https://www.cpsc.gov/Recalls/1999/cpsc-mealane-corp-announce-recall-of-star-fire-sprinklers",
+      "required_evidence": "Star name, affected model, dry construction and manufacture year.",
+      "notes": "",
+      "last_reviewed": "2026-10-13",
+      "notice_date": "1999-08-04",
+      "units_approx": 1000000,
+      "program_status": "Original notice and legacy site describe free heads/labor reimbursement; current participation and funding unverified.",
+      "hazard": "Affected Star dry sprinklers may fail to activate in a fire.",
+      "source_retrieval": "Full CPSC page opened; legacy Star subpages available as search-index text only.",
+      "notice_digest": "notice-summaries.md#star-mealane",
+      "markings": [
+        "Star",
+        "D-1 / RD-1 / RE-1 / E-1 / ME-1",
+        "manufacture year; legacy FAQ illustrates two-digit 74"
+      ]
+    },
+    {
+      "id": "star-ahi",
+      "manufacturer": "Star / Chemetron / American Household",
+      "models": [
+        "ME-1"
+      ],
+      "construction": "dry-type",
+      "manufacture_scope": "1977-1982",
+      "notice_type": "recall",
+      "notice_number": "03-116",
+      "source_url": "https://www.cpsc.gov/Recalls/2003/CPSC-American-Household-Inc-Formerly-Sunbeam-Corp-Announce-Recall-of-Star-ME-1-Dry-Fire-Sprinklers-Administrative-Lawsuit-Settlement",
+      "required_evidence": "Star ME-1 dry and manufacture year.",
+      "notes": "1977-1982 Star ME-1 dry recall. Molded 'Star', 'ME-1' and the year of manufacture identify the population. Full CPSC page opened 2026-10-14.",
+      "last_reviewed": "2026-10-14",
+      "notice_date": "2003-04-25",
+      "units_approx": 60000,
+      "program_status": "CPSC page states the AHI reimbursement program has concluded; remedy listed as No Remedy Available. Affected heads still need replacement; do not promise reimbursement.",
+      "hazard": "Star ME-1 dry sprinklers can fail to operate in a fire.",
+      "source_retrieval": "Full CPSC page opened 2026-10-14 (previously 403 on 2026-10-13).",
+      "notice_digest": "notice-summaries.md#star-ahi"
+    },
+    {
+      "id": "star-scm",
+      "manufacturer": "Star / Sprinkler Corporation of Milwaukee",
+      "models": [
+        "ME-1"
+      ],
+      "construction": "dry-type",
+      "manufacture_scope": "1983-1995",
+      "notice_type": "replacement warning",
+      "notice_number": "03-117",
+      "source_url": "https://www.cpsc.gov/Recalls/2003/CPSC-Warns-Consumers-to-Replace-Star-ME-1-Dry-Fire-Sprinklers-Made-by-Sprinkler-Corporation-of-Milwaukee-Administrative-Lawsuit-Settled-Firm-Financially-Unable-to-Conduct-Recall",
+      "required_evidence": "Star ME-1 dry and manufacture year.",
+      "notes": "Replacement warning, not a funded recall. Molded 'Star', 'ME-1' and year 1983-1995 identify the population, including 1994-1995. Full CPSC page opened 2026-10-14.",
+      "last_reviewed": "2026-10-14",
+      "notice_date": "2003-04-25",
+      "units_approx": 400000,
+      "program_status": "Firm had no assets and could not conduct a recall; no free replacement or refund. CPSC urges inspection and immediate replacement.",
+      "hazard": "Star ME-1 dry sprinklers can fail to operate in a fire.",
+      "source_retrieval": "Full CPSC page opened 2026-10-14 (previously 403 on 2026-10-13).",
+      "notice_digest": "notice-summaries.md#star-scm"
+    },
+    {
+      "id": "globe-j",
+      "manufacturer": "Globe",
+      "models": [
+        "J"
+      ],
+      "construction": "Model J Series dry-type; pendent/upright/sidewall",
+      "manufacture_scope": "1990-1999",
+      "notice_type": "recall",
+      "notice_number": "07-209",
+      "source_url": "https://www.cpsc.gov/Recalls/2007/globe-fire-sprinkler-corp-recalls-dry-fire-sprinklers-model-j-heads-can-fail-to-operate",
+      "required_evidence": "Globe, J and year embossed on frame; verify dry-type series.",
+      "notes": "Verify Globe, J, year 1990-1999 and dry construction. JN is not an alias. The historical $9 replacement offer is not current guidance.",
+      "last_reviewed": "2026-10-13",
+      "notice_date": "2007-06-12",
+      "units_approx": 300000,
+      "program_end_date": "2011-06-01",
+      "program_status": "The 2011 CPSC notice set June 1, 2011 as the replacement-head claim deadline; no present discounted offer verified.",
+      "hazard": "Heads can deteriorate and fail to operate during a fire.",
+      "source_retrieval": "2007 full CPSC page opened; 2011 full CPSC HTML retrieved directly.",
+      "notice_digest": "notice-summaries.md#globe-model-j",
+      "related_notices": [
+        {
+          "number": "11-203",
+          "date": "2011-04-21",
+          "type": "program deadline; no expanded model scope",
+          "url": "https://www.cpsc.gov/Recalls/2011/june-deadline-set-for-end-to-globe-fire-sprinkler-model-j-sprinkler-recall"
+        }
+      ]
+    }
+  ],
+  "schema_version": 2
+}

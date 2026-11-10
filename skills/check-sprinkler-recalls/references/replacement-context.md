@@ -1,0 +1,5 @@
+# Replacement guide context
+
+Tyco's current notice links a recommended-heads guide dated September 27, 2026. Retrieved and text-inspected October 13, 2026: https://tyco.widen.net/s/j5gbbrjrxv/central-o-ring-replacement-heads-guide . It maps legacy part descriptions to replacement models, SINs and part numbers; dry replacements may require custom lengths. It is a professional planning reference, not a recall-identity list or automatic substitution specification.
+
+Use the original part/variant, coverage, temperature, orientation and response requirements to investigate a candidate with a qualified sprinkler professional. Verify current technical data, listings, hydraulic/design requirements and dry-barrel dimensions before selection. A replacement SIN in this guide is not a SIN of the legacy recalled head. Do not match a partial legacy model to a replacement based solely on appearance. Do not extend the guide to a universal Star/Omega/Globe substitution list. Obtain manufacturer clarification where a row conflicts with the stated orientation or characteristics; do not silently correct source values or issue a definitive installation recommendation.

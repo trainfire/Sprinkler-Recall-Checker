@@ -1,0 +1,1496 @@
+{
+ "scope": "Selected UL and FM Approvals counterfeit-mark and falsified-certificate alerts for fire sprinklers, worldwide. These are not recalls. Authentic products bearing a copied designation are not implicated. Not exhaustive.",
+ "as_of": "2026-10-18",
+ "schema_version": 1,
+ "verification": "Every record's original notice was downloaded and read on 2026-10-18. Cues are paraphrased; open source_url for photos.",
+ "known_gaps": [
+  "UL 18PN-07 (PS002, Indonesia) cited by UL 18PN-19; not reviewed.",
+  "UL 15PN-21 (TY3151/TY3251, Vietnam) cited by UL 18PN-20; not reviewed.",
+  "FM GN5651 alert dated 2006-09-15, referenced by later Globe alerts; not in the current FM listing; not reviewed.",
+  "UL's public-notice directory lists sprinkler notices from 2018 onward only; earlier UL notices may exist."
+ ],
+ "field_guide": {
+  "external_cues": "Issuer-stated differences from authentic units, or self-evident inconsistencies, visible on an installed unit in a close, sharp photo. One is enough for Suspect counterfeit features.",
+  "supporting_cues": "Finish, color, font, stamp-depth or identifying-marking observations. Alone they support only a Counterfeit alert lead.",
+  "other_markings": "Identifying markings the issuer printed; used as lookup keys. Genuine units can carry them, so a marking counts only when it also appears in that record's external_cues or supporting_cues.",
+  "removed_unit_cues": "Needs a removed unit or verified spare (inlet, seal, threads, internal parts). Never ask anyone to remove or open an installed sprinkler to check these.",
+  "non_discriminators": "Features the issuer says do not separate authentic from counterfeit.",
+  "document_cues": "Certificate alerts only.",
+  "photo_resolvable": "yes = external cues usually decide; partial = only supporting or some removed-unit cues; no = document alert, or the issuer published markings without an authentic comparison."
+ },
+ "cross_alert_statements": [
+  {
+   "issuer": "FM Approvals",
+   "dates": [
+    "2023-07-14",
+    "2024-12-16"
+   ],
+   "statement": "No current FM Approved sprinklers use O-ring seals.",
+   "use": "Removed-unit cue on a modern FM-marked unit (FM notes O-ring seals were in general use until about 2001). An alert's O-ring statement does not establish O-ring construction for the unit in hand, so it does not trigger the O-ring Risk flag.",
+   "triggers": [
+    "ORING",
+    "O-RING"
+   ],
+   "strength": "removed-unit"
+  },
+  {
+   "issuer": "FM Approvals",
+   "dates": [
+    "2011-12-01",
+    "2012-07-27",
+    "2013-03-21",
+    "2018-07-26"
+   ],
+   "statement": "No FM Approved sprinklers use Job model F5 bulbs; FM Approved Job 5 mm bulbs are G5.",
+   "use": "For the models FM names, Job F5 is a stated difference from the authentic model whether or not an FM mark is present (as of the alert dates): Tyco TY3151/TY3251 (2016, 2017; also UL 14PN-9), Globe GL5651/GL5661/GL5653 (2008, 2009, 2017, 2018) and Viking VK100 (2014). On any other FM-marked model it is a lead (FM's 2011 and 2012 wording says 'currently'). On other models without an FM mark it is not a cue; genuine Job F5 bulbs exist.",
+   "triggers": [
+    "JOBF5",
+    "F5"
+   ],
+   "strength": "external for named models; supporting on other FM-marked units"
+  },
+  {
+   "issuer": "FM Approvals",
+   "dates": [
+    "2019-02-13"
+   ],
+   "statement": "No FM Approved sprinklers use bulbs marked YDϕ5.",
+   "use": "Strong cue on units marked Tyco or Globe or bearing an FM mark (FM 2017, 2019); otherwise a pointer to read the alert.",
+   "triggers": [
+    "YD5",
+    "YD05"
+   ],
+   "strength": "external for Tyco, Globe or FM-marked units"
+  },
+  {
+   "issuer": "FM Approvals",
+   "dates": [
+    "2025-05-12"
+   ],
+   "statement": "Any GL5651 dated 2022 or later that is also marked GLOBE can be assumed counterfeit.",
+   "use": "Apply to GL5651 only.",
+   "triggers": [],
+   "strength": "external"
+  },
+  {
+   "issuer": "UL and FM Approvals",
+   "dates": [],
+   "statement": "Bulb markings seen only on counterfeits in these alerts: ATOP⌀5 / ATOP Ø5, YDϕ5 / YD05, YH-5, CDGIX.",
+   "use": "Strong cue on units marked Tyco or Globe or bearing an FM mark (FM 2009, 2017, 2019, 2025: authentic bulbs are Job G5, Geissler G or, for GL5601, Job F3/N3); otherwise a pointer to read the alert. D77447 is left out: UL lists it with counterfeit-printed Job G5 text and it may be a copied lot code.",
+   "triggers": [
+    "ATOP5",
+    "YH5",
+    "CDGIX"
+   ],
+   "strength": "external for Tyco, Globe or FM-marked units"
+  }
+ ],
+ "records": [
+  {
+   "id": "ul-25pn-0804-ty9226",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL Solutions",
+   "notice_numbers": [
+    "UL 25PN-0804"
+   ],
+   "notice_date": "2026-10-16",
+   "found_in": "Offered and sold in Sao Paulo, Brazil",
+   "copied_designations": [
+    "TY9226"
+   ],
+   "other_markings": [
+    "SPEC AHP",
+    "LPCB",
+    "SP15",
+    "Vols",
+    "165ºF",
+    "74ºC",
+    "TFP",
+    "K2.5",
+    "FM",
+    "SFR25",
+    "cULus",
+    "VDS"
+   ],
+   "product_description": "Sprinkler marked with the Tyco (Johnson Controls) SIN TY9226 but no brand name.",
+   "authentic_excluded": "Not produced by the authorized manufacturer; authentic TY9226 units are not the subject.",
+   "removed_unit_cues": [
+    "Button assembly uses a button, O-ring and partially staked spring instead of a 2-piece button with a Belleville washer"
+   ],
+   "photo_resolvable": "partial",
+   "source_url": "https://www.ul.com/news/ul-solutions-warns-unauthorized-ul-certification-marks-fire-sprinklers",
+   "date_note": "Reference number prefix 25PN differs from the 2026 date; recorded as displayed.",
+   "supporting_cues": [
+    "Deflector blemishes, scratches or imperfections",
+    "Deflector lighter in shade than genuine",
+    "Deflector etching differs in text size and style",
+    "No brand name on the unit (TFP still appears among the markings)"
+   ]
+  },
+  {
+   "id": "ul-24pn-0056-gl5651",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL Solutions",
+   "notice_numbers": [
+    "UL 24PN-0056"
+   ],
+   "notice_date": "2026-05-15",
+   "found_in": "Sold by Fujian Guangbo Fire Equipment Co. Ltd. in China, Colombia (printed 'Columbia') and Dubai",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "copied_designations": [
+    "GL5651"
+   ],
+   "other_markings": [
+    "2024",
+    "155F/68C",
+    "LPC"
+   ],
+   "product_description": "Pendent sprinkler labeled GLOBE, Product Model GL5651, dated 2024.",
+   "authentic_excluded": "Authentic Globe GL5651 sprinklers are not involved.",
+   "external_cues": [
+    "Date code on the frame instead of the deflector (authentic GL5651 dates the deflector)"
+   ],
+   "removed_unit_cues": [
+    "O-ring seal (UL: authentic Globe GL5651 sprinklers do not use O-ring seals)"
+   ],
+   "photo_resolvable": "partial",
+   "source_url": "https://www.ul.com/news/ul-solutions-warns-unauthorized-ul-marks-fire-sprinklers",
+   "related": [
+    "fm-noc1164-gl5651-2025"
+   ],
+   "date_note": "Reference number prefix 24PN differs from the 2026 date; recorded as displayed."
+  },
+  {
+   "id": "ul-24pn-43-hd-viking",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL Solutions",
+   "notice_numbers": [
+    "UL 24PN-43"
+   ],
+   "notice_date": "2025-12-09",
+   "found_in": "Egypt; may be available in other areas",
+   "claimed_brand": [
+    "Viking",
+    "HD"
+   ],
+   "copied_designations": [
+    "K790",
+    "D-24"
+   ],
+   "other_markings": [
+    "HD in an oval",
+    "Viking (top)",
+    "FM",
+    "1/2",
+    "UL Mark"
+   ],
+   "product_description": "Device marked Viking on the top and HD in an oval on the sides; photo shows a cylindrical brass body.",
+   "authentic_excluded": "Neither HD Fire Protect Pvt Ltd nor The Viking Corporation made them. Authentic units carry only one brand.",
+   "external_cues": [
+    "Both Viking and HD markings on one unit"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.ul.com/news/ul-solutions-issues-warning-over-unauthorized-safety-certification-marks-found-fire-sprinklers"
+  },
+  {
+   "id": "ul-24pn-50-ty5151",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL Solutions",
+   "notice_numbers": [
+    "UL 24PN-50"
+   ],
+   "notice_date": "2025-12-09",
+   "found_in": "Bangladesh; may be available in other areas",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "copied_designations": [
+    "TY5151"
+   ],
+   "other_markings": [
+    "LPCB",
+    "155°F/93°C",
+    "SU",
+    "K=11.2",
+    "C-UL-US"
+   ],
+   "product_description": "Sprinkler labeled TYCO TY5151, not made by Tyco.",
+   "authentic_excluded": "Authorized TYCO sprinklers are not covered; they are not marked K=11.2 or 155°F/93°C.",
+   "external_cues": [
+    "K=11.2 marking",
+    "Mismatched 155°F/93°C temperature marking"
+   ],
+   "removed_unit_cues": [
+    "O-ring seal assembly (not used in authorized TYCO sprinklers)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.ul.com/news/ul-solutions-issues-warning-over-unauthorized-safety-certification-marks-found-fire-0",
+   "related": [
+    "fm-noc1142-ty5151-2024"
+   ]
+  },
+  {
+   "id": "ul-21pn-22-kartar-nx005",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL",
+   "notice_numbers": [
+    "UL 21PN-22"
+   ],
+   "notice_date": "2021-09-23",
+   "found_in": "New Delhi, India; may be available in other areas",
+   "claimed_brand": [
+    "KARTAR"
+   ],
+   "copied_designations": [
+    "NX005"
+   ],
+   "other_markings": [
+    "68 C",
+    "155 F",
+    "KARTAR on wrench boss",
+    "counterfeit UL mark"
+   ],
+   "product_description": "Sprinkler with KARTAR on the wrench boss and NX005 on the deflector bearing a counterfeit UL mark.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.ul.com/sites/default/files/2021-09/2021-09-09%2021PN-22PublicNotice21MS-1480%20Kartar%20Sprinker.pdf",
+   "related": [
+    "fm-globe-egypt-2009"
+   ],
+   "date_note": "Notice text: September 23, 2021. UL listing shows September 22, 2021; file name shows 2021-09-09.",
+   "authentic_excluded": "Not stated in the notice.",
+   "supporting_cues": [
+    "NX005 under the KARTAR brand (FM 2009 identifies NX005 as a Nanjing Fire Protection Technology SIN)"
+   ]
+  },
+  {
+   "id": "ul-20pn-01-globe-no-model",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL",
+   "notice_numbers": [
+    "UL 20PN-01"
+   ],
+   "notice_date": "2020-03-13",
+   "found_in": "Jordan",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "other_markings": [
+    "15-68°C",
+    "2019",
+    "no model designation"
+   ],
+   "bulb_markings": [
+    "Job F5"
+   ],
+   "product_description": "GLOBE-marked sprinkler with no model designation on the device.",
+   "authentic_excluded": "Not manufactured or labeled by Globe Fire Sprinkler.",
+   "photo_resolvable": "partial",
+   "source_url": "https://www.ul.com/news/ul-warns-of-counterfeit-ul-mark-on-fire-sprinklers-20pn-01",
+   "supporting_cues": [
+    "GLOBE marking with no model designation on a 2019 unit"
+   ]
+  },
+  {
+   "id": "ul-19pn-25-ty7226",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL",
+   "notice_numbers": [
+    "UL 19PN-25"
+   ],
+   "notice_date": "2019-12-20",
+   "found_in": "Philippines",
+   "copied_designations": [
+    "TY7226"
+   ],
+   "other_markings": [
+    "ESFR",
+    "165°F",
+    "74°C",
+    "2017"
+   ],
+   "product_description": "Sprinkler marked TY7226 with a counterfeit UL mark and 2017 on the wrench boss.",
+   "authentic_excluded": "Not manufactured or labeled by TYCO Fire & Building Products.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.ul.com/news/ul-warns-of-counterfeit-ul-mark-on-fire-sprinklers-19pn-25",
+   "related": [
+    "fm-ty7226-philippines-2019"
+   ],
+   "limitation": "UL listed identifying markings only; a genuine 2017 TY7226 can carry the same markings. Compare with the cues in fm-ty7226-philippines-2019."
+  },
+  {
+   "id": "ul-19pn-14-gl5601",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL",
+   "notice_numbers": [
+    "UL 19PN-14"
+   ],
+   "notice_date": "2019-08-30",
+   "found_in": "Distributed from China to unknown locations",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "copied_designations": [
+    "GL5601"
+   ],
+   "other_markings": [
+    "155°F 168°C",
+    "orange guard"
+   ],
+   "bulb_markings": [
+    "D77447"
+   ],
+   "product_description": "Pendent sprinkler with GLOBE on the wrench boss and GL5601 on the deflector; bulbs printed Job G5 and D77447 but not made by Job.",
+   "authentic_excluded": "Not made by Globe; bulbs not made or labeled by Job GmbH.",
+   "external_cues": [
+    "Deflector temperature pair 155°F 168°C, which does not correspond"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.ul.com/news/ul-warns-counterfeit-ul-marks-fire-sprinklers-release-19pn-14",
+   "related": [
+    "fm-gl5601-china-2019"
+   ],
+   "limitation": "Temperature text kept literally; do not correct it.",
+   "supporting_cues": [
+    "Bulb marked D77447"
+   ]
+  },
+  {
+   "id": "ul-19pn-15-angus",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL",
+   "notice_numbers": [
+    "UL 19PN-15"
+   ],
+   "notice_date": "2019-08-30",
+   "found_in": "Mexico City; may have been distributed elsewhere",
+   "claimed_brand": [
+    "ANGUS"
+   ],
+   "copied_designations": [
+    "15SSSP",
+    "15SSP"
+   ],
+   "other_markings": [
+    "2016",
+    "68°C / 155°F",
+    "ANGUS and 2016 on wrench boss",
+    "counterfeit UL mark"
+   ],
+   "product_description": "Notice names Model 15SSSP; the deflector is marked 15SSP. ANGUS and 2016 on the wrench boss.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.ul.com/sites/default/files/2019-08/19PN-15_PDF.pdf",
+   "related": [
+    "fm-angus-lithuania-2014"
+   ],
+   "limitation": "Keep both literal forms: product name 15SSSP, deflector 15SSP. Counterfeit mark is UL for the United States only.",
+   "authentic_excluded": "Not stated in the notice."
+  },
+  {
+   "id": "ul-18pn-21-22-globe-mafco",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL",
+   "notice_numbers": [
+    "UL 18PN-21",
+    "UL 18PN-22"
+   ],
+   "notice_date": "2018-06-22",
+   "found_in": "United Arab Emirates",
+   "claimed_brand": [
+    "GLOBE",
+    "MAFCO"
+   ],
+   "copied_designations": [
+    "GL5661",
+    "GL5651"
+   ],
+   "other_markings": [
+    "155°F 68°C",
+    "SSU-1",
+    "orange guard",
+    "GLOBE or MAFCO on wrench boss"
+   ],
+   "bulb_markings": [
+    "JOB F5"
+   ],
+   "product_description": "18PN-21: GLOBE on the wrench boss. 18PN-22: MAFCO on the wrench boss. Same deflector markings.",
+   "authentic_excluded": "Not manufactured by Globe Fire Sprinkler.",
+   "external_cues": [
+    "MAFCO on the wrench boss of a unit carrying a Globe GL SIN (18PN-22)",
+    "SSU-1 on a GL5661 deflector (FM 2009: authentic GL5661 is marked SU)",
+    "JOB F5 bulb on a GL5651 or GL5661 (FM 2008: authentic uses Job G5)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.ul.com/news/ul-warns-counterfeit-ul-mark-fire-sprinklers-release-18pn-21-and-18pn-22"
+  },
+  {
+   "id": "ul-18pn-19-protector",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL",
+   "notice_numbers": [
+    "UL 18PN-19"
+   ],
+   "notice_date": "2018-06-15",
+   "found_in": "China; earlier PS002 reports in Indonesia (UL 18PN-07)",
+   "claimed_brand": [
+    "PROTECTOR"
+   ],
+   "copied_designations": [
+    "PS001",
+    "PS002"
+   ],
+   "other_markings": [
+    "52TN",
+    "SSU",
+    "15A-U01",
+    "155 F/68°C",
+    "SSP",
+    "PSO",
+    "PSO on wrench stop"
+   ],
+   "product_description": "PS001 deflector: 52TN SSU 15A-U01 155 F/68°C PROTECTOR PS001. PS002 deflector: 52TN PS002 155°F/68°C PROTECTOR SSP. PSO on the wrench stop.",
+   "authentic_excluded": "Not manufactured by Protector Safety Ind. Co.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.ul.com/sites/g/files/qbfpbp251/files/2019-01/Public-Notices-18PN-19-PDF.pdf",
+   "limitation": "UL 18PN-07 cited but not reviewed."
+  },
+  {
+   "id": "ul-18pn-20-tyco",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL",
+   "notice_numbers": [
+    "UL 18PN-20"
+   ],
+   "notice_date": "2018-06-15",
+   "found_in": "United Arab Emirates; earlier TY3151/TY3251 reports in Vietnam (UL 15PN-21)",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "copied_designations": [
+    "TY3151",
+    "TY3251",
+    "TY3351"
+   ],
+   "other_markings": [
+    "155°F 68°C SU",
+    "155°F 68°C SP",
+    "200°F 93°C SP",
+    "155°F 68°C HSW",
+    "orange guard"
+   ],
+   "bulb_markings": [
+    "JOB F5",
+    "YD05"
+   ],
+   "product_description": "Upright, pendent and horizontal sidewall units with TYCO on the wrench boss.",
+   "authentic_excluded": "Not manufactured or labeled by TYCO Fire & Building Products.",
+   "external_cues": [
+    "Bulb marked JOB F5 or YD05 on a TY3151 or TY3251 (FM 2016 and 2017: authentic units use only Job G5 or Geissler bulbs)"
+   ],
+   "photo_resolvable": "partial",
+   "source_url": "https://japan.ul.com/wp-content/uploads/2018/06/Public-Notices-18PN-20.pdf",
+   "related": [
+    "ul-14pn-9-tyco-ps007",
+    "fm-tyco-vietnam-2014"
+   ],
+   "limitation": "UL 15PN-21 cited but not reviewed. Copy hosted on japan.ul.com.",
+   "supporting_cues": [
+    "Orange shipping guard bearing a UL mark, on uninstalled stock (FM 2014: authentic Tyco guards carry no UL mark)"
+   ]
+  },
+  {
+   "id": "ul-14pn-9-tyco-ps007",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "UL",
+   "notice_numbers": [
+    "UL 14PN-9"
+   ],
+   "notice_date": "2014-05-15",
+   "found_in": "Vietnam and India",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "copied_designations": [
+    "TY3151",
+    "TY3251",
+    "PS007"
+   ],
+   "other_markings": [
+    "UL in a circle",
+    "68C",
+    "SSP",
+    "55° F/68° C"
+   ],
+   "bulb_markings": [
+    "JOB F5"
+   ],
+   "product_description": "Upright TY3151, pendent TY3251 and horizontal sidewall PS007 (authentic counterpart TY3331) with TYCO on the wrench boss.",
+   "authentic_excluded": "Not manufactured or labeled by Tyco; bulbs not made by Job GmbH.",
+   "external_cues": [
+    "TYCO cast into both sides of the wrench boss (authentic: TYCO on one side, year on the other)",
+    "Counterfeit Job F5 bulb (authentic: Geissler G-between-triangles bulb)",
+    "Deflector lacks SU/SP or flow arrow per variant",
+    "PS007 on a TYCO-marked sidewall"
+   ],
+   "removed_unit_cues": [
+    "Zinc-plated steel deflector that is magnetic (authentic brass); do not test installed units"
+   ],
+   "photo_resolvable": "partial",
+   "source_url": "https://www.prnewswire.com/news-releases/ul-warns-of-counterfeit-fire-sprinklers-release-no-14pn-9-259353951.html",
+   "related": [
+    "ul-18pn-20-tyco",
+    "fm-tyco-vietnam-2014"
+   ],
+   "limitation": "UL-issued release hosted by PR Newswire; photos were on UL's newsroom and are not in the release."
+  },
+  {
+   "id": "fm-noc1192-tyco-india-2025",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_numbers": [
+    "FM NoC 1192"
+   ],
+   "notice_date": "2025-12-03",
+   "found_in": "Mumbai, India",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "copied_designations": [
+    "TY3351",
+    "TY3151",
+    "TY325"
+   ],
+   "bulb_markings": [
+    "ATOP⌀5"
+   ],
+   "product_description": "1/2 in. NPT glass bulb sidewall, upright and pendent sprinklers marked TYCO.",
+   "authentic_excluded": "Not manufactured by Tyco Fire Products.",
+   "external_cues": [
+    "Bulb marked ATOP⌀5 (authentic bulbs marked Job or G)",
+    "Counterfeit TY325 has angular frame arms (authentic TY325 compact with rounded arms)"
+   ],
+   "removed_unit_cues": [
+    "Orifice cap differs from authentic drawn copper cap with flattened inlet protrusion"
+   ],
+   "non_discriminators": [
+    "Chrome finish (authentic chrome TY3351 exists)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/NoC_1192-Counterfeit-Tyco-Automatic-Fire-Sprinklers-Product-Alert_India.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/counterfeit-tyco-fire-products-ty3351-ty3151-and-ty325-automatic-fire-sprinklers-india"
+  },
+  {
+   "id": "fm-noc1164-gl5651-2025",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_numbers": [
+    "FM NoC 1164"
+   ],
+   "notice_date": "2025-05-12",
+   "found_in": "Colombia; similar units reported in Dubai",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "copied_designations": [
+    "GL5651"
+   ],
+   "other_markings": [
+    "2024",
+    "LPC"
+   ],
+   "product_description": "1/2 in. NPT glass bulb pendent sprinklers marked GLOBE and GL5651.",
+   "authentic_excluded": "Not manufactured by Globe Fire Sprinkler Corp. or Victaulic.",
+   "external_cues": [
+    "3 mm bulb (authentic GL5651 uses 5 mm)",
+    "Load screw tip straight, threaded to the end and silver (authentic tapered, bare brass)",
+    "Year cast on wrench flat and missing from deflector (authentic year on deflector)",
+    "LPC mark on deflector (not an authentic GL5651 certification)",
+    "GLOBE marking on a GL5651 dated 2022 or later"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/NoC_1164-Counterfeit-Victaulic-Globe-GL5651-Sprinklers_May-2025.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/counterfeit-gl5651-sprinklers",
+   "related": [
+    "ul-24pn-0056-gl5651"
+   ],
+   "date_rule": {
+    "designation": "GL5651",
+    "brand": "GLOBE",
+    "year_from": 2022,
+    "note": "FM NoC 1164: Victaulic bought Globe in 2019 and dropped the GLOBE marking by 2024; any GL5651 dated 2022 or later that is also marked GLOBE can be assumed counterfeit."
+   }
+  },
+  {
+   "id": "fm-noc1142-ty5151-2024",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_numbers": [
+    "FM NoC 1142"
+   ],
+   "notice_date": "2024-12-16",
+   "found_in": "Bangladesh",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "copied_designations": [
+    "TY5151"
+   ],
+   "product_description": "3/4 in. NPT, 5 mm glass bulb upright sprinklers marked TY5151.",
+   "authentic_excluded": "Not manufactured by Tyco Fire Products.",
+   "external_cues": [
+    "No year cast in a frame arm (authentic has one)",
+    "TYCO on the wrench flat (authentic TY5151 has none on either flat)",
+    "Orifice cap flush with frame (authentic raised, with a light gray PTFE seal ring visible)",
+    "K-factor marking on deflector",
+    "Fahrenheit and Celsius temperatures that do not match"
+   ],
+   "removed_unit_cues": [
+    "Plated inlet threads (authentic always bare brass threads)",
+    "Flat-bottomed cap with no visible seal from the inlet",
+    "Likely O-ring seal"
+   ],
+   "non_discriminators": [
+    "Chrome finish (authentic chrome TY5151 exists)",
+    "Agency marks (vary by year on authentic units)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/NoC_1142_Counterfeit_Tyco_TY5151_Sprinklers_ProductAlert_Bangladesh.pdf",
+   "related": [
+    "ul-24pn-50-ty5151"
+   ],
+   "supporting_cues": [
+    "Different frame shape",
+    "Large, crowded deflector lettering"
+   ]
+  },
+  {
+   "id": "fm-ty325-saudi-2023",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2023-08-21",
+   "found_in": "Saudi Arabia",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "copied_designations": [
+    "TY325"
+   ],
+   "product_description": "1/2 in. NPT bulb-type standard spray pendent sprinkler marked TYCO and TY325.",
+   "authentic_excluded": "Not made by Tyco Fire Products.",
+   "external_cues": [
+    "Silver compression screw with more exposed threads",
+    "Yellow/brass machined cap with ring-shaped tool marks (authentic cold-formed copper)"
+   ],
+   "non_discriminators": [
+    "Wrench boss markings (TYCO, year, mold symbol) similar on both"
+   ],
+   "photo_resolvable": "partial",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Counterfeit_Tyco_TY325_Automatic_Fire_Sprinklers_ProductAlert_Saudi_Arabia.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/tyco-ty325-fire-sprinklers-counterfeit-saudi-arabia",
+   "supporting_cues": [
+    "Narrower, thinner deflector attachment"
+   ]
+  },
+  {
+   "id": "fm-ty3351-india-2023",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2023-07-14",
+   "found_in": "India",
+   "claimed_brand": [
+    "TYCO",
+    "TFP"
+   ],
+   "copied_designations": [
+    "TY3351"
+   ],
+   "product_description": "1/2 in. NPT bulb-type horizontal sidewall sprinkler marked TY3351 and TFP.",
+   "authentic_excluded": "Not made by Tyco Fire Products.",
+   "external_cues": [
+    "Deflector long dimension parallel to the frame arms (authentic always perpendicular)",
+    "Silver compression screw with more exposed threads (authentic plain brass even when chrome plated)"
+   ],
+   "non_discriminators": [
+    "Chrome finish",
+    "Wrench boss markings similar"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Counterfeit_Tyco_TY3351_Automatic_Fire_Sprinklers_ProductAlert_India.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/tyco-ty3351-automatic-fire-sprinklers-counterfeit",
+   "supporting_cues": [
+    "Different frame arm shape",
+    "Cap rim without a flare, with lathe tool marks"
+   ]
+  },
+  {
+   "id": "fm-ty9223-brazil-2023",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2023-07-14",
+   "found_in": "Brazil",
+   "claimed_brand": [
+    "TFP"
+   ],
+   "copied_designations": [
+    "TY9223"
+   ],
+   "product_description": "1 in. NPT fusible pendent sprinkler marked TY9223 and TFP.",
+   "authentic_excluded": "Not made by Tyco Fire Products.",
+   "external_cues": [
+    "Solid brass-colored orifice cap (authentic copper cap with stainless insert)",
+    "Ejection (kick) spring wire through a groove in the cap (authentic TY9223 has none)"
+   ],
+   "removed_unit_cues": [
+    "Flat brass inlet side of cap with no visible seal (authentic domed copper with PTFE seal visible)",
+    "O-ring seal"
+   ],
+   "non_discriminators": [
+    "White frame paint (temperature classification)",
+    "FM mark position (present on 2021 and newer authentic units)"
+   ],
+   "photo_resolvable": "partial",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Counterfeit_Tyco_TY9223_Automatic_Fire_Sprinklers_Product_Alert_Brazil.pdf",
+   "date_note": "Date printed in the alert body; PDF metadata title shows a stale 'May 4, 2017'.",
+   "supporting_cues": [
+    "Shallower deflector stampings"
+   ]
+  },
+  {
+   "id": "fm-ty7226-brazil-2023",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2023-07-14",
+   "found_in": "Brazil",
+   "claimed_brand": [
+    "TFP"
+   ],
+   "copied_designations": [
+    "TY7226"
+   ],
+   "product_description": "3/4 in. NPT fusible pendent sprinkler marked TY7226 and TFP.",
+   "authentic_excluded": "Not made by Tyco Fire Products.",
+   "external_cues": [
+    "Translucent red substance on the load screw (authentic green thread adhesive)"
+   ],
+   "removed_unit_cues": [
+    "Cap lighter in color with no PTFE washer visible from the inlet",
+    "O-ring seal"
+   ],
+   "non_discriminators": [
+    "White paint on frame and link (214°F authentic rating)"
+   ],
+   "photo_resolvable": "partial",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Counterfeit_Tyco_TY7226_Automatic_Fire_Sprinklers_ProductAlert_Brazil.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/tyco-auto-fire-sprinklers-brazil",
+   "related": [
+    "fm-ty7226-philippines-2019",
+    "ul-19pn-25-ty7226"
+   ],
+   "supporting_cues": [
+    "Frame lighter in color",
+    "Lighter deflector material"
+   ]
+  },
+  {
+   "id": "fm-gl5601-china-2019",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2019-10-08",
+   "found_in": "Yiwu, Zhejiang, China",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "copied_designations": [
+    "GL5601"
+   ],
+   "product_description": "1/2 in. NPT bulb pendent sprinkler with GLOBE on the wrench boss and GL5601 on the deflector.",
+   "authentic_excluded": "Not produced by Globe Fire Sprinkler Corporation.",
+   "external_cues": [
+    "5 mm bulb on a GL5601 (authentic uses a 3 mm bulb marked JOB F3 or N3)",
+    "Load screw threaded along its exposed tip (authentic tapered and smooth)"
+   ],
+   "non_discriminators": [
+    "Frame and deflector shape",
+    "Deflector markings"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Counterfeit-Globe-Fire-Sprinklers-Product-Alert_10082019.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/globe-sprinklers",
+   "related": [
+    "ul-19pn-14-gl5601"
+   ]
+  },
+  {
+   "id": "fm-ty7226-philippines-2019",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2019-10-22",
+   "found_in": "Tanauan City, Batangas, Philippines",
+   "copied_designations": [
+    "TY7226"
+   ],
+   "other_markings": [
+    "SP",
+    "74°C on link"
+   ],
+   "product_description": "3/4 in. NPT fusible quick-response storage (formerly ESFR) pendent sprinkler marked TY7226.",
+   "authentic_excluded": "Not produced by Tyco Fire Products.",
+   "external_cues": [
+    "Yellow brass-like cap (authentic coppery)",
+    "Ejection spring not attached to the cap",
+    "Visibly thicker fusible link (FM measured 0.024 in. against 0.005 in.)",
+    "Four holes punched through the link (authentic has small dimples)",
+    "74°C stamped on the link (authentic shows only TFP)",
+    "SP marking on deflector (never on authentic)"
+   ],
+   "non_discriminators": [
+    "LPCB marking (newer authentic units have it)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Counterfeit-Tyco-Fire-Sprinklers-Product-Alert_10222019.pdf",
+   "related": [
+    "ul-19pn-25-ty7226",
+    "fm-ty7226-brazil-2023"
+   ],
+   "date_note": "PDF metadata title shows a stale 'August 2, 2016'.",
+   "supporting_cues": [
+    "Shallower deflector stampings"
+   ]
+  },
+  {
+   "id": "fm-tyco-upright-taiwan-2019",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2019-02-13",
+   "found_in": "Taiwan",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "copied_designations": [
+    "TY4151"
+   ],
+   "other_markings": [
+    "QR"
+   ],
+   "bulb_markings": [
+    "YDϕ5"
+   ],
+   "product_description": "3/4 in. NPT bulb upright sprinkler with TYCO on the wrench boss.",
+   "authentic_excluded": "Not produced by Tyco Fire Protection Products.",
+   "external_cues": [
+    "QR marked on a TY4151 deflector (authentic TY4151 has no QR)",
+    "Bulb marked YDϕ5 (no FM Approved sprinkler uses it; authentic uses Geissler G or Job G5)"
+   ],
+   "removed_unit_cues": [
+    "Different shape at the bottom of the orifice cap"
+   ],
+   "non_discriminators": [
+    "Deflector agency markings (vary on authentic units)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Tyco-Product-Alert-01312019.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/tyco-sprinkler",
+   "date_note": "Alert body dated February 13, 2019; FM listing shows February 19, 2019.",
+   "supporting_cues": [
+    "Slightly different TYCO font",
+    "Slightly more reflective chrome"
+   ]
+  },
+  {
+   "id": "fm-globe-concealed-vietnam-2018",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2018-07-26",
+   "found_in": "Vietnam",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "bulb_markings": [
+    "Job F5"
+   ],
+   "product_description": "1/2 in. NPT bulb concealed pendent sprinkler with GLOBE on the wrench boss (compared to authentic GL5653).",
+   "authentic_excluded": "Not produced by Globe Fire Sprinkler Corporation.",
+   "removed_unit_cues": [
+    "Chrome-plated frame and deflector on a concealed sprinkler (FM Approved concealed bodies are not plated)",
+    "Deflector held only by peened drop-pin ends (authentic uses one bent heavy wire)",
+    "Job F5 bulb (authentic Job G5)",
+    "Silver cap; O-ring seal not visible from either side (authentic bare brass cap with visible PTFE Belleville seal)"
+   ],
+   "photo_resolvable": "no",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/globe-sprinkler-072618.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/globe-sprinkler-072618",
+   "limitation": "Counterfeit SIN not stated in the text. Concealed units are hidden by the cover plate; do not remove it to check."
+  },
+  {
+   "id": "fm-gn5651-malaysia-2017",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2017-07-06",
+   "found_in": "Malaysia",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "copied_designations": [
+    "GN5651"
+   ],
+   "bulb_markings": [
+    "Job F5"
+   ],
+   "product_description": "1/2 in. NPT bulb pendent sprinkler with GLOBE on the wrench boss and GN5651 on the deflector (compared to authentic GL5651).",
+   "authentic_excluded": "Not produced by Globe Fire Sprinkler Corporation.",
+   "external_cues": [
+    "Load-screw head filled over with adhesive (authentic head left visible)",
+    "Load screw threaded to the bulb tip (authentic smooth taper)",
+    "Job F5 bulb (authentic Job G5)"
+   ],
+   "removed_unit_cues": [
+    "Plating over inlet threads",
+    "Solid machined cap with hidden O-ring (authentic cold-formed copper cap with PTFE Belleville seal)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Globe-Product-Alert-070612.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/globe-fire-sprinkler",
+   "related": [
+    "fm-anber-globe-ge5651-2007"
+   ],
+   "supporting_cues": [
+    "Smoother, glossier plating (authentic shows rough sand-cast finish)"
+   ]
+  },
+  {
+   "id": "fm-tyco-globe-philippines-2017",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2017-04-10",
+   "found_in": "Philippines",
+   "claimed_brand": [
+    "TYCO",
+    "GLOBE"
+   ],
+   "other_markings": [
+    "T-ZSTX15-68°C"
+   ],
+   "bulb_markings": [
+    "ATOP Ø5",
+    "YD ϕ5"
+   ],
+   "product_description": "1/2 in. NPT bulb pendent sprinklers with TYCO or GLOBE on the wrench boss (compared to TY3251 and GL5651).",
+   "authentic_excluded": "Not produced by Tyco Fire Products or Globe Fire Sprinkler Corporation.",
+   "external_cues": [
+    "Bulb marked ATOP Ø5 or YD ϕ5 (authentic TY3251 uses Job G5 or Geissler; authentic GL5651 uses Job G5)",
+    "Thinner deflector tines bent away from the frame (authentic compound bend toward it)",
+    "Machined brass button (authentic formed copper)"
+   ],
+   "removed_unit_cues": [
+    "Solid machined cap with hidden O-ring",
+    "No exposed brass on inlet threads, waterway or seal seat (plated last)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Tyco-and-Globe-Product-Alert-Final.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/tyco-globe",
+   "supporting_cues": [
+    "Chinese CCCF designator T-ZSTX15-68°C on the deflector instead of the authentic TY3251 marking set"
+   ]
+  },
+  {
+   "id": "fm-tyco-vietnam-2016",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2016-01-05",
+   "found_in": "Vietnam",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "copied_designations": [
+    "TY3151",
+    "TY3251"
+   ],
+   "bulb_markings": [
+    "Job F5"
+   ],
+   "product_description": "Suspect counterfeit 1/2 in. NPT bulb upright and pendent sprinklers with TYCO on the wrench boss.",
+   "authentic_excluded": "Not produced by Tyco Fire Products.",
+   "external_cues": [
+    "Job F5 bulb (authentic TY3151/TY3251 use Job G5 or Geissler 5 mm)",
+    "Chrome deflector on an uncoated brass frame (authentic: both plated or both uncoated)",
+    "Machined brass button (authentic formed copper)"
+   ],
+   "non_discriminators": [
+    "Deflector markings (only subtle font and placement differences)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Tyco-Product-Alert010716.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/suspect-counterfeit-tyco-automatic-fire-sprinkler",
+   "limitation": "Issuer labeled this a suspect counterfeit."
+  },
+  {
+   "id": "fm-viking-vk100-malaysia-2014",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2014-09-09",
+   "found_in": "Malaysia",
+   "claimed_brand": [
+    "VIKING"
+   ],
+   "copied_designations": [
+    "VK100"
+   ],
+   "bulb_markings": [
+    "Job F5"
+   ],
+   "product_description": "1/2 in. NPT bulb sprinkler with VIKING on the wrench boss and VK100 on the deflector.",
+   "authentic_excluded": "Not produced by The Viking Corporation.",
+   "external_cues": [
+    "Job F5 bulb (authentic VK100 uses only Job G5)",
+    "Load screw threaded to the bulb tip (authentic tapers over the last 1-2 mm)"
+   ],
+   "non_discriminators": [
+    "VIKING on the wrench boss with an older-style frame (the counterfeit copies the older authentic frame)",
+    "Deflector marking content and position (only font differs)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/productAlert_090914.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/viking-fire-sprinklers",
+   "supporting_cues": [
+    "Different wrench-boss font",
+    "Smoother, lower-luster chrome (authentic rougher sand-cast finish)"
+   ]
+  },
+  {
+   "id": "fm-tyco-vietnam-2014",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2014-06-25",
+   "found_in": "Vietnam",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "copied_designations": [
+    "TY3151",
+    "TY3251",
+    "TY3351",
+    "PS007"
+   ],
+   "other_markings": [
+    "ULM"
+   ],
+   "product_description": "1/2 in. NPT bulb upright, pendent and horizontal sidewall units with TYCO on the wrench boss; the sidewall deflector reads PS007.",
+   "authentic_excluded": "Not produced by Tyco Fire Products; PS007 is a Protector Safety SIN and Protector did not make them.",
+   "external_cues": [
+    "Raised wrench-boss lettering (authentic Tyco recessed)",
+    "Upright deflector without SU; pendent markings all in a circle around the load screw and without SP",
+    "Machined button (authentic stamped copper)",
+    "Sidewall deflector suited to arms parallel to the ceiling (authentic TY3351 arms perpendicular)",
+    "PS007 on a TYCO-marked sidewall (a Protector SIN)"
+   ],
+   "removed_unit_cues": [
+    "Chrome on inlet threads (authentic bare brass on machined surfaces)",
+    "O-ring seal (authentic PTFE spring washer)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Tyco-Vietnam-counterfeit-6-25-14.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/tyco-automatic-sprinklers-vietnam",
+   "related": [
+    "ul-14pn-9-tyco-ps007"
+   ],
+   "supporting_cues": [
+    "Smooth reflective chrome (authentic matte)",
+    "LPCB or VdS marks missing (agency marks vary by year)",
+    "Shipping guard molded ULM with a UL Listed mark, on uninstalled stock (authentic shows a patent number)"
+   ]
+  },
+  {
+   "id": "fm-angus-lithuania-2014",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2014-06-03",
+   "found_in": "Lithuania",
+   "claimed_brand": [
+    "ANGUS"
+   ],
+   "product_description": "1/2 in. NPT bulb sprinkler with ANGUS on the wrench boss, resembling Angus Model S K5.6 standard spray pendent.",
+   "authentic_excluded": "Not produced by Angus Fire.",
+   "external_cues": [
+    "Flat bulb seat (authentic slightly dished)",
+    "Slotted load screw (authentic socket hex head)"
+   ],
+   "non_discriminators": [
+    "Deflector shape and stamped markings (very similar)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Lithuania_ProductAlert_6_3_14.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/angus-automatic-fire-sprinklers",
+   "related": [
+    "ul-19pn-15-angus"
+   ],
+   "supporting_cues": [
+    "Different frame arm shape"
+   ]
+  },
+  {
+   "id": "fm-tyco-india-2014",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2014-03-24",
+   "found_in": "Mumbai, India",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "other_markings": [
+    "UL on wrench boss",
+    "SSP",
+    "LPC"
+   ],
+   "product_description": "1/2 in. NPT bulb sprinkler with TYCO and UL on the wrench boss, resembling TY3251.",
+   "authentic_excluded": "Not produced by Tyco Fire Products.",
+   "external_cues": [
+    "Different frame shape; arms ground smooth without a stiffening ridge",
+    "Raised TYCO lettering (authentic recessed)",
+    "Deflector SSP (authentic TY3251 reads SP); Celsius temperature only",
+    "Agency marks on the frame arms",
+    "Machined brass bulb seat (authentic stamped copper)"
+   ],
+   "removed_unit_cues": [
+    "Plated inlet threads (authentic bare brass)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/ProductAlert_Tyco_052214.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/tyco-automatic-fire-sprinklers-india"
+  },
+  {
+   "id": "fm-tyco-hsw-turkey-2013",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2013-03-21",
+   "found_in": "Turkey",
+   "claimed_brand": [
+    "TYCO"
+   ],
+   "bulb_markings": [
+    "JOB F5"
+   ],
+   "product_description": "White K5.6 horizontal sidewall sprinkler with TYCO on the wrench boss, resembling TY3351.",
+   "authentic_excluded": "Not produced by Tyco Fire Products.",
+   "external_cues": [
+    "Different wrench boss and frame arm shape with raised lettering (authentic Tyco sunken)",
+    "Deflector resembles a Reliable sidewall design"
+   ],
+   "removed_unit_cues": [
+    "Inlet threads not NPT, with brass/copper-colored plating over a non-copper alloy",
+    "Machined cap and no PTFE spring washer seal; resembles silicone O-ring design"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/TycoHSW_032113.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/tyco-automatic-fire-sprinklers-turkey",
+   "supporting_cues": [
+    "Bubbled, air-dried looking white paint (authentic powder-coated polyester)",
+    "JOB F5 bulb with an FM mark (FM 2013: no FM Approved sprinkler uses F5)"
+   ]
+  },
+  {
+   "id": "fm-globe-ty3151-2012",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2012-07-27",
+   "found_in": "Not stated",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "copied_designations": [
+    "TY3151"
+   ],
+   "bulb_markings": [
+    "Job F5"
+   ],
+   "product_description": "Nominal K5.6, 1/2 in. NPT standard spray upright with TY3151 on the deflector and GLOBE on the wrench boss.",
+   "authentic_excluded": "Not produced by Globe Fire Sprinkler or Tyco Fire Products.",
+   "external_cues": [
+    "Tyco SIN TY3151 on a GLOBE-marked frame"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Globe_TY3151_Final_24_July_2012.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/globe-automatic-fire-sprinkler",
+   "supporting_cues": [
+    "Job F5 bulb with an FM mark (FM 2012: no currently FM Approved sprinkler uses F5)"
+   ]
+  },
+  {
+   "id": "fm-firex-2011",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2011-12-01",
+   "found_in": "Middle East",
+   "claimed_brand": [
+    "FIREX"
+   ],
+   "other_markings": [
+    "SSU",
+    "FIREX on wrench boss",
+    "FM mark on deflector"
+   ],
+   "bulb_markings": [
+    "Job F5"
+   ],
+   "product_description": "1/2 in. NPT, 5 mm bulb standard spray upright with FIREX cast on the wrench boss and a stamped FM mark.",
+   "authentic_excluded": "FM was working with Emirates Fire Fighting Equip. Factory LLC (Firex) to find the source.",
+   "removed_unit_cues": [
+    "O-ring type seal under the cap"
+   ],
+   "photo_resolvable": "partial",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/FIREX_sprinklers_rev1.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/firex-automatic-sprinklers",
+   "supporting_cues": [
+    "Job F5 bulb with an FM mark (FM 2011: no currently FM Approved sprinkler uses F5)"
+   ]
+  },
+  {
+   "id": "fm-reliable-f1-2011",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2011-05-18",
+   "found_in": "Not stated",
+   "claimed_brand": [
+    "Reliable"
+   ],
+   "copied_designations": [
+    "R1715",
+    "R1725"
+   ],
+   "other_markings": [
+    "F1 casting mark"
+   ],
+   "product_description": "Counterfeits resembling Reliable F1 series R1715 (pendent, delisted by FM in 2010) and R1725 (upright), K5.6 bulb.",
+   "authentic_excluded": "Counterfeits resemble authentic Reliable products; authentic units are not the subject.",
+   "external_cues": [
+    "Greater deflector standoff above the frame arms",
+    "F1 casting mark centered (authentic offset left), different font"
+   ],
+   "removed_unit_cues": [
+    "Cup machined from solid stock (authentic drawn)",
+    "Inlet walls without chrome (authentic as-cast waterway keeps chrome)",
+    "Machined undercut from thread top to frame base exposing brass"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/ReliableSprk_News051811.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/reliable-automatic-sprinklers",
+   "date_note": "Date taken from the FM listing; the PDF text shows no date."
+  },
+  {
+   "id": "fm-globe-egypt-2009",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2009-08-20",
+   "found_in": "Egypt (North Africa / Middle East market)",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "copied_designations": [
+    "NX005",
+    "GL5651",
+    "GL5661"
+   ],
+   "other_markings": [
+    "SSU-1",
+    "SSP"
+   ],
+   "bulb_markings": [
+    "YH-5",
+    "CDGIX"
+   ],
+   "product_description": "K5.6, 5 mm, 1/2 in. NPT pendent (NX005/GL5651) and upright (GL5661) counterfeits of Globe sprinklers.",
+   "authentic_excluded": "Globe makes no NX005; NX005 is a Nanjing Fire Protection Technology SIN.",
+   "external_cues": [
+    "Load screw threaded down to the bulb, no taper",
+    "Chrome machined bulb seat flush with frame (authentic copper-colored, stamped, raised)",
+    "Deflector tines taper and slots uniform; chrome roll-over (authentic brass-colored)",
+    "GL5661 deflector reads SSU-1 (authentic SU)",
+    "Bulbs marked YH-5 or CDGIX (authentic Job G5)",
+    "SIN NX005 on a Globe-style unit"
+   ],
+   "removed_unit_cues": [
+    "O-ring seal; no PTFE seal visible"
+   ],
+   "non_discriminators": [
+    "Frame finish (nearly identical on these examples)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/ProductalertGlobeEgypt-8-20-09.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/globe-automatic-fire-sprinkler-2",
+   "related": [
+    "ul-21pn-22-kartar-nx005",
+    "fm-globe-kuwait-2008"
+   ]
+  },
+  {
+   "id": "fm-globe-kuwait-2008",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2008-06-03",
+   "found_in": "Kuwait (Middle East market)",
+   "claimed_brand": [
+    "GLOBE"
+   ],
+   "copied_designations": [
+    "GL5651",
+    "GL5676",
+    "GL5626",
+    "GL5661",
+    "GL5681"
+   ],
+   "bulb_markings": [
+    "Job F5",
+    "Job FR"
+   ],
+   "product_description": "Counterfeit Globe pendent, sidewall, upright and concealed pendent sprinklers, 1/2 in. NPT.",
+   "authentic_excluded": "Globe makes no GL5676; authentic GL5681 is a dry-barrel sprinkler, not a concealed pendent.",
+   "external_cues": [
+    "Load screw threaded to the bulb, no taper",
+    "Year stamp not oriented toward the deflector edge",
+    "3 mm bulb on a GL5651 (authentic 5 mm)",
+    "Job F5 on GL5651/GL5661 (authentic G5); Job FR on a GL5601-style unit (authentic F3 or F3-SP)",
+    "Model numbers Globe never made in that form (GL5676; GL5681 as concealed)"
+   ],
+   "non_discriminators": [
+    "Stamped vs machined bulb seat (Globe uses both)",
+    "Raised GLOBE lettering (Globe used raised lettering on some authentic units)"
+   ],
+   "photo_resolvable": "yes",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/globefiresprinklercorp-06-03-08.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/globe-automatic-fire-sprinklers-3",
+   "related": [
+    "fm-globe-egypt-2009"
+   ],
+   "supporting_cues": [
+    "Smooth, highly reflective chrome (authentic rough cast)",
+    "Different GLOBE font and size"
+   ]
+  },
+  {
+   "id": "fm-anber-globe-ge5651-2007",
+   "alert_type": "counterfeit_certification_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2007-12-14",
+   "found_in": "Asia market",
+   "claimed_brand": [
+    "Anber Globe",
+    "GLOBE"
+   ],
+   "copied_designations": [
+    "GE5651"
+   ],
+   "product_description": "Counterfeit of Anber Globe SA Model GE5651 (FM Approved August 1999 to June 2003). The alert notes earlier GL5651 and GN5651 counterfeits in Asia.",
+   "authentic_excluded": "Counterfeits of a discontinued authentic model.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.fmapprovals.com/resources/product-alerts/anber-globe-sa-automatic-fire-sprinkler",
+   "limitation": "Summary page only; no comparison photos or cue list online. The earlier GN5651 alert (September 15, 2006) was not reviewed."
+  },
+  {
+   "id": "fm-victaulic-coc-2022",
+   "alert_type": "falsified_certification_document_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2022-12-01",
+   "found_in": "Philippines",
+   "claimed_brand": [
+    "Victaulic"
+   ],
+   "copied_designations": [
+    "V2723",
+    "V2703"
+   ],
+   "other_markings": [
+    "SPRINGKLER HEAD",
+    "7054834"
+   ],
+   "product_description": "Altered FM Certificate of Compliance listing Victaulic V2723 (pendent ESFR, K14.0) and V2703 (pendent quick response, K11.2); claims approval March 25, 2020.",
+   "authentic_excluded": "The model numbers are valid Victaulic FM Approved products; the certificate is falsified.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Counterfeit-Sprinkler-Head-Product-Alert-01-Dec2022.pdf",
+   "limitation": "A document alert. Not a recall of Victaulic sprinklers and not resolvable from a sprinkler photo.",
+   "document_cues": [
+    "Certificate header misspelled SPRINGKLER HEAD",
+    "Certificate model numbers are real Victaulic models (V2723, V2703); the document itself is false"
+   ]
+  },
+  {
+   "id": "fm-nanjing-tuna-coc-2018",
+   "alert_type": "falsified_certification_document_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2018-01-22",
+   "found_in": "Not stated",
+   "claimed_brand": [
+    "Nanjing Tuna Fire Protection Co., Ltd"
+   ],
+   "product_description": "Falsified FM Certificate of Compliance for clean-room ceiling sprinklers with decorative plate. Revised July 30, 2019: Nanjing Fire acknowledged the falsified certificate.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Nanjing-TUNA-Fire-Protection-Co-Product-Alert-012218.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/nanjing-tuna-fire-protection-012218",
+   "related": [
+    "fm-nanjing-coc-2013"
+   ]
+  },
+  {
+   "id": "fm-xiamen-kyrain-cor-2014",
+   "alert_type": "falsified_certification_document_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2014-08-07",
+   "found_in": "China",
+   "claimed_brand": [
+    "Xiamen Kyrain Safety Machinery Co., Ltd"
+   ],
+   "product_description": "Falsified FM Certificate of Registration (ISO 9001 scope) for automatic sprinkler products.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Xiamen_080714.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/automatic-sprinkler-products-manufactured-for-xiamen-kyrain-safety-machinery"
+  },
+  {
+   "id": "fm-nanjing-coc-2013",
+   "alert_type": "falsified_certification_document_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2013-11-26",
+   "found_in": "China, Middle East, South America",
+   "claimed_brand": [
+    "Nanjing Fire Protection Tech Ltd."
+   ],
+   "product_description": "Falsified FM Certificate of Compliance listing several sprinkler models, using the legitimate address of Nanjing Fire Protection Technology Co., Ltd.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/NanjingAlert_112013.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/nanjing-fire-protection-tech-certificate-of-compliance",
+   "related": [
+    "fm-nanjing-cor-2013",
+    "fm-nanjing-tuna-coc-2018"
+   ]
+  },
+  {
+   "id": "fm-nanjing-cor-2013",
+   "alert_type": "falsified_certification_document_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2013-06-21",
+   "found_in": "China",
+   "claimed_brand": [
+    "Nanjing Fire Protection Tech Ltd."
+   ],
+   "product_description": "Falsified FM Certificate of Registration (ISO 9001 scope) for sprinkler products. Revised August 7, 2013.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/NanjingAlert_8_7_13.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/nanjing-fire-protection-tech-certificate-of-registration",
+   "related": [
+    "fm-nanjing-coc-2013"
+   ]
+  },
+  {
+   "id": "fm-fujian-coc-2012",
+   "alert_type": "falsified_certification_document_alert",
+   "issuer": "FM Approvals",
+   "notice_date": "2012-06-19",
+   "found_in": "China",
+   "claimed_brand": [
+    "Fujian Nanan City Guangwei Fire-Fighting Scie-Tech Co., Ltd."
+   ],
+   "product_description": "Altered FM Certificate of Compliance misrepresenting several upright, pendent and sidewall models as FM Approved; the company later gave undertakings to stop using FM marks.",
+   "photo_resolvable": "no",
+   "source_url": "https://www.fmapprovals.com/-/media/Project/PublicWebsites/FMA/Files/Product-Alert-PDFs/Fujian_Product_Alert_061912.pdf",
+   "alert_page": "https://www.fmapprovals.com/resources/product-alerts/fujian-automatic-sprinklers"
+  }
+ ]
+}
