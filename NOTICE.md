@@ -1,6 +1,8 @@
 # Third-Party Notices
 
-The MIT License in LICENSE covers the author's original content only: SKILL.md, the recall register, identification rules, notice summaries, model index, screening checks, source notes and other files written by the author. The files below are third-party materials. They remain the property of their owners, are not covered by the MIT License, and are included unmodified (or as plain-text extracts) for reference and product identification.
+**License scope:** The MIT License in LICENSE applies only to the author's original content. Third-party materials listed below are excluded and remain the property of their owners.
+
+The author's original content includes SKILL.md, the recall register, identification rules, notice summaries, model index, screening checks, source notes and other files written by the author. The files below are third-party materials. They are not covered by the MIT License and are included unmodified (or as plain-text extracts) for reference and product identification.
 
 | Bundled file | Owner | Public source |
 |---|---|---|
