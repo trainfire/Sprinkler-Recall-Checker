@@ -1,0 +1,43 @@
+{
+  "interface": {
+    "displayName": "Sprinkler Recall Checker",
+    "shortDescription": "Identify and check recalls",
+    "longDescription": "Screen installed fire sprinklers using photos, markings, models and SINs. Includes expanded U.S. recall and warning records, dated notice summaries, Tyco model and seal-style tables, historical identification PDFs, 44 UL and FM Approvals counterfeit and falsified-certificate alerts with external identification cues, source retrieval limitations, and field identification rules. Uses bundled references first, with focused current-source checks and broader searches when identification or coverage is unresolved. Distinguishes confirmed matches from uncertain identification and keeps counterfeit alerts separate from recalls. Informational screening aid only: not an inspection, engineering opinion, product authentication or code compliance determination. Personal project, not affiliated with any employer, manufacturer or certification body; see DISCLAIMER.md.",
+    "developerName": "Corey Kinsman",
+    "category": "Productivity",
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
+    "defaultPrompt": [
+      "Identify this sprinkler from the attached photos and check applicable U.S. recalls or replacement warnings.",
+      "Check the recall status of this sprinkler using its manufacturer, model or SIN, and manufacture date.",
+      "Explain which photos or markings are needed to distinguish an O-ring sprinkler from a Belleville-seal variant.",
+      "Check whether this sprinkler's markings appear in any UL or FM counterfeit alerts."
+    ],
+    "capabilities": [
+      "Read"
+    ]
+  },
+  "name": "sprinkler-recall-checker",
+  "version": "1.4.0",
+  "description": "Identify fire sprinklers from photos and markings, check U.S. recalls and replacement warnings, screen markings against UL and FM Approvals counterfeit alerts, and report evidence and unresolved identifiers. Informational screening aid only; see DISCLAIMER.md.",
+  "author": {
+    "name": "Corey Kinsman"
+  },
+  "keywords": [
+    "fire sprinkler",
+    "sprinkler recall",
+    "CPSC",
+    "O-ring",
+    "Central Sprinkler",
+    "Star",
+    "Omega",
+    "Globe",
+    "fire protection",
+    "counterfeit sprinkler",
+    "UL",
+    "FM Approvals",
+    "certification mark"
+  ],
+  "skills": "./skills",
+  "license": "MIT"
+}
