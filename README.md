@@ -16,27 +16,59 @@ The result is short and phone-friendly. It separates confirmed matches from unce
 
 ## Quick start
 
-No programming is needed. Pick the app you use.
+No programming is needed. Most people should use Option A. It takes about five minutes, and the skill then works in Claude chats, in Cowork and in the Claude desktop app.
+
+> [!IMPORTANT]
+> Use the file named **check-sprinkler-recalls.zip**. The green **Code** button on this page and the **Source code** zips on the release page download the whole project, and Claude will not accept them as a skill.
 
 ### Option A: Claude web or desktop app
 
-1. **Download the skill.** Download [check-sprinkler-recalls.zip](https://github.com/trainfire/Sprinkler-Recall-Checker/releases/latest/download/check-sprinkler-recalls.zip) from the [latest release](https://github.com/trainfire/Sprinkler-Recall-Checker/releases/latest). Do not unzip it.
+**Step 1. Turn on code execution.** Skills only work when it is on.
 
-2. **Upload it.** In Claude, open **Settings**, go to the **Skills** section and upload the zip. Make sure **code execution** and **web search** are turned on.
+1. Open Claude and go to **Settings > Capabilities** ([direct link](https://claude.ai/settings/capabilities)).
+2. Turn on **Code execution and file creation**. In newer versions of Settings it is called **Create and edit files**.
 
-   Team and Enterprise owners can add the same zip for the whole organization from organization settings. If your organization limits network access, allow cpsc.gov, tyco-fire.com, tyco.widen.net, ul.com, japan.ul.com, code-authorities.ul.com, fmapprovals.com, approvalguide.com and prnewswire.com.
+On a Team or Enterprise plan, your organization owner controls this setting. If you can't find it, ask them to turn on code execution and skills.
 
-3. **Ask Claude.** Start a new chat, attach one or more photos of the sprinkler and ask, for example:
+**Step 2. Download the skill.**
+
+1. Click [**check-sprinkler-recalls.zip**](https://github.com/trainfire/Sprinkler-Recall-Checker/releases/latest/download/check-sprinkler-recalls.zip). The download starts right away.
+2. Leave the file zipped. Don't double-click it, open it or extract it.
+
+On a Mac using Safari, check your Downloads folder. If you see a folder named `check-sprinkler-recalls` instead of a `.zip` file, Safari unzipped it for you. Go to **Safari > Settings > General**, turn off **Open "safe" files after downloading**, and download the file again. Or download it with Chrome.
+
+**Step 3. Upload the zip in Claude.**
+
+1. Go to **Customize > Skills** ([direct link](https://claude.ai/customize/skills)).
+2. Click the **+** button, then **Create skill**.
+3. Choose **Upload a skill**.
+4. Select `check-sprinkler-recalls.zip` from your Downloads folder.
+
+`check-sprinkler-recalls` now appears in your skills list. Make sure its switch is on.
+
+Don't drag the zip into a chat. A chat only attaches the file to that conversation, and the skill is not installed.
+
+**Step 4. Use it.**
+
+1. Start a new chat.
+2. Attach one or more sprinkler photos with the paperclip button, or drag the photos into the message box.
+3. Type a request, for example:
 
    > Identify this sprinkler from the attached photos and check applicable U.S. recalls or replacement warnings.
 
-   The skill loads by itself; there is no need to name it.
+You don't need to name the skill. Claude uses it whenever a request is about sprinkler recalls or counterfeit sprinklers. Some checks need web search, so leave web search on in the chat's tools menu.
+
+**For Team and Enterprise owners:** you can add the same zip for everyone in your organization under **Organization settings > Plugins & skills**. If your organization limits network access, allow cpsc.gov, tyco-fire.com, tyco.widen.net, ul.com, japan.ul.com, code-authorities.ul.com, fmapprovals.com, approvalguide.com and prnewswire.com.
 
 ### Option B: Claude Code
 
-1. **Download the skill.** On this page, click the green **Code** button, then **Download ZIP**. Unzip the file.
+If you already installed the skill in the Claude app (Option A), Claude Code signed in with the same Claude account picks it up automatically (version 2.1.273 or later). Run `/skills` to confirm it is listed.
 
-2. **Install it.** In the unzipped folder, open `skills` and copy the `check-sprinkler-recalls` folder into your personal Claude skills folder:
+To install it in Claude Code only:
+
+1. **Download the skill.** Download [check-sprinkler-recalls.zip](https://github.com/trainfire/Sprinkler-Recall-Checker/releases/latest/download/check-sprinkler-recalls.zip) and unzip it. You get a folder named `check-sprinkler-recalls`.
+
+2. **Install it.** Copy the `check-sprinkler-recalls` folder into your personal Claude skills folder:
 
    | System | Skills folder |
    |---|---|
@@ -45,13 +77,34 @@ No programming is needed. Pick the app you use.
 
    If the `skills` folder doesn't exist yet, create it. The `.claude` folder is hidden by default: in Windows File Explorer use **View → Show → Hidden items**, and in macOS Finder press **Cmd + Shift + .** to show it.
 
-   To use it in one project only, copy the folder into `.claude/skills/` inside that project instead. The repo root also holds `.claude-plugin/plugin.json` for plugin-based installs.
+   To use it in one project only, copy the folder into `.claude/skills/` inside that project instead.
 
-3. **Ask Claude.** Start a session, attach the photos or type the markings, and ask your question. Claude asks permission before running the lookup script.
+   Check that the path ends in `.claude/skills/check-sprinkler-recalls/SKILL.md`. A common mistake is one folder too many, such as `skills/check-sprinkler-recalls/check-sprinkler-recalls/SKILL.md`.
+
+3. **Ask Claude.** Start a new session, attach the photos or type the markings, and ask your question. Claude asks permission before running the lookup script.
 
 ### Option C: Codex
 
-Install the whole repository folder as a plugin. The Codex manifest is `.codex-plugin/plugin.json`, and `skills/check-sprinkler-recalls/agents/openai.yaml` holds the Codex interface settings.
+Codex needs the whole repository. Click the green **Code** button, then **Download ZIP**, unzip it, and install the unzipped folder as a plugin. The Codex manifest is `.codex-plugin/plugin.json`, and `skills/check-sprinkler-recalls/agents/openai.yaml` holds the Codex interface settings.
+
+### Troubleshooting
+
+| What happened | What to do |
+|---|---|
+| The upload failed or said no skill was found | You probably downloaded the whole project with the green **Code** button or a **Source code** zip. Download [check-sprinkler-recalls.zip](https://github.com/trainfire/Sprinkler-Recall-Checker/releases/latest/download/check-sprinkler-recalls.zip) and upload that file. |
+| I dropped the zip into a chat and nothing was installed | A chat only attaches files. Upload the zip in **Customize > Skills** (Step 3). |
+| There is no Skills page, or skills are greyed out | Turn on code execution (Step 1). On a Team or Enterprise plan, ask your organization owner. |
+| There is no **Upload a skill** option | Your organization may have turned off skills that members upload. Ask your owner to allow it or to add the skill for everyone. |
+| On a Mac, the download turned into a folder | Safari unzipped it. See the Mac note in Step 2. |
+| Claude doesn't seem to use the skill | Check that its switch is on in **Customize > Skills**, start a new chat, and mention a sprinkler recall or counterfeit check in your request. |
+| The result says the current status was not verified | Web search is off or blocked. Turn it on, or ask your admin to allow the sites listed under Step 4. |
+
+### Updating to a new version
+
+1. In **Customize > Skills**, open `check-sprinkler-recalls`, click **...** and choose **Delete**.
+2. Download the new `check-sprinkler-recalls.zip` and upload it as in Step 3.
+
+New versions are listed on the [Releases](https://github.com/trainfire/Sprinkler-Recall-Checker/releases) page.
 
 ## Example prompts
 
